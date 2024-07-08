@@ -66,7 +66,7 @@ DNS拦截规则数量: 101768
 - [d3ward规则](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock)
 - [oisd规则](https://small.oisd.nl/)
 - [秋风规则](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
-- [CJX's Annoyance List](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+- [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 - [补充规则](https://github.com/hndclpp/GOODBYEADS)
 </ul>
 </details>
