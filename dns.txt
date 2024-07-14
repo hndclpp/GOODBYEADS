@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-13 20:13:16（北京时间）
+! Version: 2024-07-14 08:42:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102470
+! Total count: 102473
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -29314,7 +29314,6 @@
 ||dfigxb.underarmour.com.mx^
 ||dfionytxsva.com^
 ||dfiqvf0syzl54.cloudfront.net^
-||dfirma.pl^
 ||dfitgc.yamamay.com^
 ||dfjd.xyz^
 ||dfjlgfb4lxka5.cloudfront.net^
@@ -30246,7 +30245,6 @@
 ||dkmvyl.kidsahoi.ch^
 ||dkno.netpartnering.com^
 ||dko.vente-unique.nl^
-||dkonto.pl^
 ||dkotrack.com^
 ||dkqibr.onlineverf.nl^
 ||dkrbus.com^
@@ -39185,6 +39183,7 @@
 ||gksqdt.reitmans.com^
 ||gkswas.xyz^
 ||gkutca.xyz^
+||gkypgw.xyz^
 ||gl-cash.com^
 ||gl5g98t0vfjb.panprices.com^
 ||gla63a4l.de^
@@ -49940,6 +49939,7 @@
 ||kweriod.top^
 ||kwgs.letudiant.fr^
 ||kwijfh.proactiv.com^
+||kwiqcoh.icu^
 ||kwitvg.letudiant.fr^
 ||kwivb.cn^
 ||kwiydaw.com^
@@ -50350,7 +50350,6 @@
 ||laljjn.xyz^
 ||lalqyyxorytp.com^
 ||lam.promo.skf.com^
-||lambda-url.us-east-1.on.aws^
 ||lambedbarbal.website^
 ||lambersoultre.website^
 ||lambingsyddir.com^
@@ -53831,6 +53830,7 @@
 ||lygvtmeaekuv.com^
 ||lyingdownt.xyz^
 ||lyingshayride.com^
+||lyislol.top^
 ||lyjcwiwzkq.com^
 ||lyjznnanaryaj.top^
 ||lylufhuxqwi.com^
@@ -76081,6 +76081,7 @@
 ||serve-rtb.com^
 ||serve-servee.com^
 ||serve.bdsmstreak.com^
+||serve.bussyhunter.com^
 ||serve.faithlifeads.com^
 ||servebom.com^
 ||servedby.adbility-media.com^
@@ -87587,6 +87588,7 @@
 ||tgjdbx.xyz^
 ||tgmklw.productreview.com.au^
 ||tgolived.com^
+||tgrpzl.xyz^
 ||tgsdiw.dedoles.de^
 ||tgsscmaxfi.com^
 ||tgt.maep.ibm.com^
@@ -88781,6 +88783,7 @@
 ||toovoala.net^
 ||top-casting-termine.de^
 ||top-fwz1.mail.ru^
+||top-js-metrics.top.my.ua^
 ||top-offers1.com^
 ||top-performance.best^
 ||top-performance.club^
