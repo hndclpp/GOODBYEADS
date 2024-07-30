@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-30 08:39:29（北京时间）
+! Version: 2024-07-30 20:15:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14555
+! Total count: 14557
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -5998,6 +5998,7 @@
 @@||googletagmanager.com/gtm.js$domain=clipmyhorse.tv
 @@||googletagmanager.com/gtm.js$domain=cnbctv18.com
 @@||googletagmanager.com/gtm.js$domain=coda.io
+@@||googletagmanager.com/gtm.js$domain=communityfibre.co.uk
 @@||googletagmanager.com/gtm.js$domain=computerhoy.com
 @@||googletagmanager.com/gtm.js$domain=coolermaster.com
 @@||googletagmanager.com/gtm.js$domain=cotizadorsalud.mapfre.com.mx
@@ -12949,6 +12950,7 @@
 @@||temp-phone-number.com^$generichide
 @@||temperosdavovo.com/*/*.m3u8$stealth
 @@||tempinbox.xyz/storage/js/adex.js
+@@||tempinbox.xyz/storage/js/mnpw3.js
 @@||templates.marketo.net/template*/$script,stylesheet,domain=pages.addigy.com
 @@||tempmail.ninja^$generichide
 @@||tempmailpro.net^$generichide
