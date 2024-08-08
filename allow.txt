@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-07 20:16:10（北京时间）
+! Version: 2024-08-08 08:39:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14581
+! Total count: 14584
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -10373,6 +10373,7 @@
 @@||pandora.com/web-version/*/*.json
 @@||pandora.com^$generichide
 @@||panel.flops.ru/js/member/evercookie_init.js
+@@||panel.sinema.cx/video/$stealth=referrer
 @@||pangzi.ca^$subdocument
 @@||panjiachen.github.io^$generichide
 @@||pantagraph.com^$generichide
@@ -11401,6 +11402,8 @@
 @@||s0.wp.com/wp-content/js^$domain=gaypornwave.com
 @@||s0ft4pc.com^$generichide
 @@||s1-filecr.xyz^$stealth
+@@||s1-static.msstatic.com/mfe/huya_main/*.html$stealth,domain=huya.com
+@@||s1-static.msstatic.com/mfe/huya_main/*.html$xmlhttprequest,elemhide,jsinject,content,extension,domain=huya.com
 @@||s1.adform.net/banners/scripts/adx.js$domain=delfi.lt
 @@||s1.daumcdn.net/svc/original/U03/cssjs/userAgent$domain=tistory.com
 @@||s1.wp.com^
