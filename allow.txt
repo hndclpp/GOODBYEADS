@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-13 20:16:17（北京时间）
+! Version: 2024-08-14 08:40:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14598
+! Total count: 14599
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -2055,6 +2055,7 @@
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 @@||auburnpub.com^$generichide
 @@||auchan.ru/pokupki/media/banners/*.jpg$~third-party
+@@||audi.com.tr/*/modeller/$stealth=webrtc
 @@||audible.com^$stealth
 @@||audiko.net/api/$stealth
 @@||audiobookcup.com^$generichide
