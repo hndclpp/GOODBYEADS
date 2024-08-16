@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-16 08:39:37（北京时间）
+! Version: 2024-08-16 20:16:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99014
+! Total count: 99006
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1705,7 +1705,6 @@
 ||4703.5clo0xmbf.com^
 ||47216dc00b.com^
 ||4739.4puuqeh41.com^
-||47500e7317.com^
 ||4756.5clo0xmbf.com^
 ||47aead8f05.com^
 ||47c8d48301.com^
@@ -9609,7 +9608,6 @@
 ||ads.internic.co.il^
 ||ads.iosappsworld.com^
 ||ads.ipowerweb.com^
-||ads.isoftmarketing.com^
 ||ads.itv.com^
 ||ads.javtit.com^
 ||ads.jewishfriendfinder.com^
@@ -11554,7 +11552,6 @@
 ||alkosalvb.filasofighit.com^
 ||alkqryamjo.com^
 ||all-audio.pro^
-||all2cnjuh34jb.com^
 ||all4spy.com^
 ||all4wap.ru^
 ||allabc.com^
@@ -17346,7 +17343,6 @@
 ||beachinfinitegag.com^
 ||beacon-api.aliyuncs.com^
 ||beacon-fullpage-predictor.goguardian.com^
-||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
@@ -18577,7 +18573,6 @@
 ||bmjrzfxpd.com^
 ||bmjs.xzw.com^
 ||bmkkmlanqklma.top^
-||bmkkmlanqmzvw.top^
 ||bmkz57b79pxk.com^
 ||bmlcuby.com^
 ||bmly.impots.gouv.fr^
@@ -29993,6 +29988,7 @@
 ||doujs05.xyz^
 ||doujs06.shop^
 ||doujs06.xyz^
+||doujs07.shop^
 ||doujs07.xyz^
 ||doujs08.xyz^
 ||doujs09.xyz^
@@ -34852,7 +34848,6 @@
 ||felonauditoriumdistant.com^
 ||feltanoow.com^
 ||femald.com^
-||female-yard.pro^
 ||femalehasslegloss.com^
 ||femalesunderpantstrapes.com^
 ||femefaih.com^
@@ -39167,7 +39162,6 @@
 ||gownletcarny.top^
 ||gowspow.com^
 ||goya.rutube.ru^
-||goyetteconnelly.bid^
 ||gozncj.stealthangelsurvival.com^
 ||gp.dejanews.com^
 ||gp.jstv.com^
@@ -42575,7 +42569,6 @@
 ||ijmxco.xyz^
 ||ijogkae.churchserviceplanner.co.uk^
 ||ijpbpkaq.com^
-||ijqbhuubyg.com^
 ||ijrmafzydeieuo.com^
 ||ijs.allnestinfinite.com^
 ||ijs.statelinear.com^
@@ -45629,6 +45622,7 @@
 ||izlzunewumqgg.com^
 ||izmiua.xyz^
 ||izprqctxde.com^
+||izqeyo.xyz^
 ||izqogb.cn^
 ||izremx.dentalplans.com^
 ||izrnvo.com^
@@ -47949,7 +47943,6 @@
 ||kostprice.com^
 ||kotikinar2ko8tiki09.com^
 ||kotnvzp.com^
-||kotokot.com^
 ||kotopoulathanasis.openapp.link^
 ||kouceeptait.com^
 ||koucerie.com^
@@ -48631,7 +48624,6 @@
 ||lamp-shade.net^
 ||lampdrewcupid.com^
 ||lamplynx.com^
-||lampoled.com^
 ||lamppostharmoniousunaware.com^
 ||lamprey.carolcassar.com^
 ||lamprey.seagyndavis.com^
@@ -48968,7 +48960,6 @@
 ||leadzupc.com^
 ||leadzutw.com^
 ||leafagebaume.com^
-||leafingcoitus.website^
 ||leafletcensorrescue.com^
 ||leafletluckypassive.com^
 ||leafletsmakesunpleasant.com^
@@ -50562,6 +50553,7 @@
 ||ljyajgjvuv.com^
 ||ljyipz.nugnes1920.com^
 ||ljykyxgp.com^
+||ljzcawea.icu^
 ||ljzxdranhsf.com^
 ||ljzxdu.largus.fr^
 ||lk.parisfoodies.fr^
@@ -51766,6 +51758,7 @@
 ||luminosoocchio.com^
 ||luminousstickswar.com^
 ||lumnstoodthe.info^
+||lumnxiel.top^
 ||lumpilap.net^
 ||lumpmainly.com^
 ||lumpy-skirt.pro^
@@ -51801,7 +51794,6 @@
 ||lurker.olx.com.br^
 ||lurkfibberband.com^
 ||lurkgenerally.com^
-||luroman.com^
 ||luronews.com^
 ||lurrynumud.com^
 ||lusaisso.com^
@@ -59572,6 +59564,7 @@
 ||nmrjnqiwocfyi.com^
 ||nmsedhkcd.com^
 ||nmssdbgmf.xyz^
+||nmtcxz.xyz^
 ||nmtracking.netflix.com^
 ||nmu3.destinia.be^
 ||nmxcadosdrcbd.com^
@@ -59917,6 +59910,7 @@
 ||npaqfubekak.com^
 ||nparallel.actonservice.com^
 ||npbkhsarqzp.com^
+||npbtnl.xyz^
 ||npcad.com^
 ||npcta.xyz^
 ||npczil.maxandco.com^
@@ -59984,7 +59978,6 @@
 ||nreg.world^
 ||nretholas.com^
 ||nrg.red-by-sfr.fr^
-||nrged.com^
 ||nrjcur.pomelofashion.com^
 ||nrnma.com^
 ||nrqppdgnhaagjq.com^
@@ -67122,7 +67115,6 @@
 ||qc.gq.com^
 ||qc.japo.vn^
 ||qc.kqbd88.com^
-||qc.mhsolution.vn^
 ||qc.newyorker.com^
 ||qc.qualicocommunitieswinnipeg.com^
 ||qc.ultraviewer.net^
@@ -67913,6 +67905,7 @@
 ||r.cnews.qq.com^
 ||r.cricbet.co^
 ||r.cvglobal.co^
+||r.dir.bg^
 ||r.erohabu.com^
 ||r.eroticos.tv^
 ||r.freeadultporn.tv^
@@ -67960,6 +67953,7 @@
 ||r42tag.com^
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
+||r5.dir.bg^
 ||r5apiliopolyxenes.com^
 ||r5dfwjtb.icu^
 ||r6.galya.ru^
@@ -68374,6 +68368,7 @@
 ||readly-renterval.icu^
 ||readserv.com^
 ||readspokesman.com^
+||readsubsequentlyspecimen.com^
 ||ready-for-download.com^
 ||ready.curriculumassociates.com^
 ||ready.nerdery.com^
@@ -68922,7 +68917,6 @@
 ||relkconka.com^
 ||relmaxtop.com^
 ||reloadsusa.com^
-||relogotd.com^
 ||reltrd.peteralexander.com.au^
 ||reluctancefleck.com^
 ||reluctanceghastlysquid.com^
@@ -71908,7 +71902,6 @@
 ||saturatedrake.com^
 ||saturdaygrownupneglect.com^
 ||saturdaymarryspill.com^
-||saturim.com^
 ||saturndynamic.pt^
 ||saub27i3os.com^
 ||saucebuttons.com^
@@ -73933,6 +73926,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzhkj.cn^
+||shbzigs.cn^
 ||shbzikj.cn^
 ||shbzjgs.cn^
 ||shbzjkj.cn^
@@ -74350,7 +74344,6 @@
 ||similarlength.pro^
 ||similarlyrelicrecovery.com^
 ||similarmarriage.com^
-||similartreat.com^
 ||simpan.online^
 ||simple-isl.com^
 ||simple.avaya.com^
@@ -74774,7 +74767,6 @@
 ||sm.sylectus.com^
 ||sm.trb.com^
 ||smaato.net^
-||smac-ad.com^
 ||smachnakittchen.com^
 ||smackedtapnet.com^
 ||smaclick.com^
@@ -90355,6 +90347,7 @@
 ||uhjxitn.xyz^
 ||uhlagm.rakurakuseisan.jp^
 ||uhlkij.bonprix.it^
+||uhmcjdc.icu^
 ||uhmpda.sunlocation.com^
 ||uhn9.up-france.fr^
 ||uho5m96ej.com^
@@ -92026,7 +92019,6 @@
 ||vexacion.com^
 ||vexationworship.com^
 ||vexedkindergarten.com^
-||vexenbill.com^
 ||vexevutus.com^
 ||vexilorath.com^
 ||vexolinu.com^
@@ -92607,7 +92599,6 @@
 ||vllsuv.skatedeluxe.com^
 ||vlnk.me^
 ||vlogerads.com^
-||vlogoflife.com^
 ||vlogs.deja.media^
 ||vlry5l4j5gbn.com^
 ||vltjnmkps.xyz^
@@ -95117,6 +95108,7 @@
 ||wruaqpkuwa.com^
 ||wrufer.com^
 ||wrugwj.bakerross.de^
+||wrutvnce.top^
 ||wrvueo.mollis.ru^
 ||wrycomparednutshell.com^
 ||wryfruw.com^
