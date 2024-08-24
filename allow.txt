@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-23 20:15:42（北京时间）
+! Version: 2024-08-24 08:39:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14653
+! Total count: 14654
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -8528,6 +8528,7 @@
 @@||media-files.bunkr.ru^$media,stealth
 @@||media-imdb.com^$stealth,domain=imdb.com
 @@||media-imdb.com^*/clickstream.js
+@@||media-us.amillionads.com/*.mp3$domain=open.spotify.com
 @@||media.biertijd.com/galleries/$stealth,domain=biertijd.xxx
 @@||media.bnd.com/mistats/finalizestats.js
 @@||media.bnd.com/mistats/micb.js
@@ -10059,7 +10060,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=southindianactress.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sportskeeda.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=srvy.ninja
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stfly.biz|explorosity.net|torovalley.net|optimizepics.com|blogesque.net|stfly.cc
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stfly.biz|explorosity.net|torovalley.net|optimizepics.com|blogesque.net|stfly.cc|bookbucketlyst.com|metoza.net|trekcheck.net|travize.net|techlike.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stockstracker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=streameast.live
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=streetdir.com|roaddir.com
