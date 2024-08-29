@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-08-29 08:41:18（北京时间）
+! Version: 2024-08-29 20:16:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14652
+! Total count: 14653
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -4857,6 +4857,7 @@
 @@||finclub.in/safe*.php?link=$stealth
 @@||find-words.com^$generichide
 @@||findernet.com^$content
+@@||findlawimg.com^$stealth=referrer,domain=findlaw.cn
 @@||fingahvf.top/advertisers.js
 @@||fingerprintjs.com^$generichide
 @@||finishline.com^$stealth
@@ -4872,7 +4873,6 @@
 @@||fistfast.com/pop.js
 @@||fivemturk.com^$generichide
 @@||flair.be/js/default/*_jq.$script
-@@||flashvps.xyz/lib/*.js$domain=sonixgvn.net
 @@||flickr.com/cookie_$stealth
 @@||flickr.com/register_cookies.gne?$stealth
 @@||flickr.com/signin/$stealth
@@ -7524,7 +7524,7 @@
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipfs-lab.com^$generichide
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
-@@||ipinfo.io/json$domain=queye.co
+@@||ipinfo.io/json$domain=ptube.pipio.site|queye.co
 @@||ipinfo.io/static/images/use-cases/adtech.jpg$image,~third-party
 @@||ipip.net/ping.php?
 @@||ipqualityscore.com/api/$script,domain=carousell.com.hk
@@ -9154,6 +9154,7 @@
 @@||newssokuhou666.blog.fc2.com^$generichide
 @@||newsthessaloniki.gr/wp-content/*/adblock-detector/advertisement.js
 @@||newstvonline.com^$generichide
+@@||newtoki*.org/data/file/$image,stealth=referrer
 @@||newver.api.dedecms.com/index.php$subdocument
 @@||newz.dk^$generichide
 @@||next.co.uk/static-content/gtm-sdk/gtm.js$~third-party
@@ -10211,7 +10212,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=facciabuco.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fastssh.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=flixscans.*
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fooak.com|plknu.com|nexnoo.com|simana.online|efhjd.com|upfilesurls.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fooak.com|plknu.com|nexnoo.com|simana.online|efhjd.com|upfilesurls.com|falpus.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=forasm.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=forexit.online
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=freetvsports.xyz|poscishd.online
