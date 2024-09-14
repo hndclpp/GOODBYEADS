@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-13 20:16:08（北京时间）
+! Version: 2024-09-14 08:41:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99959
+! Total count: 99973
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -79,7 +79,6 @@
 ||0153.4puuqeh41.com^
 ||0157.l5eamr17d.com^
 ||0159.ogrt80r65.com^
-||0165672dd6.com^
 ||016e6eadad.com^
 ||0172.5clo0xmbf.com^
 ||0176.cosmicnewspulse.com^
@@ -429,6 +428,7 @@
 ||101com.com^
 ||101flag.ru^
 ||101m3.com^
+||1026750852.rsc.cdn77.org^
 ||1028images.com^
 ||10298198.arch.sofi.org^
 ||10298198.info.sofi.org^
@@ -436,6 +436,7 @@
 ||10298198.o.sofi.org^
 ||102d.pandasuite.io^
 ||103092804.com^
+||1047430889.rsc.cdn77.org^
 ||1048.5clo0xmbf.com^
 ||1062.5clo0xmbf.com^
 ||107e9a08a8.com^
@@ -578,6 +579,7 @@
 ||1455.seponews.com^
 ||1459.cosmicnewspulse.com^
 ||1472.79j68qav2.com^
+||1478004088.rsc.cdn77.org^
 ||147cd49082.05e11c9f6f.com^
 ||1480.79j68qav2.com^
 ||1482.5clo0xmbf.com^
@@ -2249,7 +2251,6 @@
 ||6306c7a8c8.cde90a5fb0.com^
 ||63383900e0.com^
 ||633c66f0dc.com^
-||6350e10f3a.com^
 ||6381.5clo0xmbf.com^
 ||638236rpn.com^
 ||6387.l5eamr17d.com^
@@ -2646,7 +2647,6 @@
 ||7e52bb0df7.c5ab629aba.com^
 ||7e77e49c84.com^
 ||7e839b3296.98f68cf54e.com^
-||7ecd70404f.com^
 ||7ee4c0f141.com^
 ||7f1aefd20d.5e1d98ec8c.com^
 ||7f3adt.com^
@@ -2855,6 +2855,7 @@
 ||8cc5ff581a88.bitsngo.net^
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
+||8coins.ru^
 ||8d07a.xyz^
 ||8d1dce99ab.com^
 ||8d4b.pandasuite.io^
@@ -10673,7 +10674,6 @@
 ||adw.heraldm.com^
 ||adw.sapo.pt^
 ||adwalte.info^
-||adwareremovergold.com^
 ||adway.org^
 ||adwhirl.com^
 ||adwmab.card-db.com^
@@ -13220,6 +13220,7 @@
 ||angularconstitution.com^
 ||anidianskirts.com^
 ||aniede.xyz^
+||anijhatiqseeob.com^
 ||anijjm.winkelstraat.nl^
 ||animadulte.com^
 ||animal-drawings.com^
@@ -19936,7 +19937,6 @@
 ||buccanslabby.top^
 ||buckanimateretired.com^
 ||buckeyekantars.com^
-||buckleadjustedwise.com^
 ||buckumoore.com^
 ||buckwheatchipwrinkle.com^
 ||bucojjqcica.com^
@@ -20258,6 +20258,7 @@
 ||bxnxdlb.xyz^
 ||bxoaeju.icu^
 ||bxpjpkldxrsss.xyz^
+||bxpwfdmmhlgccon.com^
 ||bxrfbsrlerio.com^
 ||bxrqdnkb.com^
 ||bxsk.site^
@@ -21937,6 +21938,7 @@
 ||chaghets.net^
 ||chagrinprivata.top^
 ||chaibsoacmo.com^
+||chaidsimsubs.net^
 ||chaifortou.net^
 ||chainads.io^
 ||chainconnectivity.com^
@@ -24441,7 +24443,6 @@
 ||contradiction2.fun^
 ||contradictionclinch.com^
 ||contradictshaftfixedly.com^
-||contrastremovetame.com^
 ||contributorfront.com^
 ||contributorshaveangry.com^
 ||contried.com^
@@ -25583,7 +25584,6 @@
 ||currepush.com^
 ||curriculture.com^
 ||curryoxygencheaper.com^
-||curseaprilsnow.com^
 ||cursecrap.com^
 ||cursedspytitanic.com^
 ||cursegro.com^
@@ -27050,7 +27050,6 @@
 ||d7d5184132.dacb7ae0f7.com^
 ||d7dza8s7j2am6.cloudfront.net^
 ||d7e13aeb98.com^
-||d7fd9bace5.com^
 ||d7fea0b8c4.com^
 ||d7gse3go4026a.cloudfront.net^
 ||d7jpk19dne0nn.cloudfront.net^
@@ -30689,6 +30688,7 @@
 ||dsa22.com^
 ||dsad234.fun^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
+||dsads55.fun^
 ||dsaewew21.fun^
 ||dsas.danawa.com^
 ||dsb.yahoo.co.jp^
@@ -31019,6 +31019,7 @@
 ||dwnm2295blvjq.cloudfront.net^
 ||dwp3ce9c.top^
 ||dwq661.biz^
+||dwqjaehnk.com^
 ||dwr3zytn850g.cloudfront.net^
 ||dwrlwx.polo-motorrad.de^
 ||dwtkuzo.cn^
@@ -32016,6 +32017,7 @@
 ||effacedefend.com^
 ||effaceecho.com^
 ||effacerevealing.com^
+||effad.ru^
 ||effateuncrisp.com^
 ||effect.habr.com^
 ||effectedscorch.com^
@@ -36544,6 +36546,7 @@
 ||fq02.shop^
 ||fq03.shop^
 ||fq04.shop^
+||fq05.shop^
 ||fq67.top^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fqbjzj.xyz^
@@ -37169,6 +37172,7 @@
 ||fzgrpqktmq.com^
 ||fzipipalkri.com^
 ||fzivunnigra.com^
+||fzjbsvgz.icu^
 ||fzllis.cn^
 ||fzlnk.com^
 ||fznpq.com^
@@ -38340,6 +38344,7 @@
 ||gkcqyo.aquazzura.com^
 ||gkdafpdmiwwd.xyz^
 ||gkencyarcoc.com^
+||gkeolwi.icu^
 ||gkewzootqju.com^
 ||gkfdkf.jdsports.co.uk^
 ||gkfehrdhbm.com^
@@ -39850,6 +39855,7 @@
 ||grizzlies30.fun^
 ||grizzling33.fun^
 ||grkhhdxsimfif.com^
+||grkucmja.com^
 ||grkuikqvpmqnla.com^
 ||grmtas.com^
 ||grn.openapp.link^
@@ -41156,6 +41162,7 @@
 ||hfpwcx.supermercadosmas.com^
 ||hfqnbrrutmyqlo.com^
 ||hfr67jhqrw8.com^
+||hftohrepdtz.com^
 ||hfufkifmeni.com^
 ||hfugukhcea.com^
 ||hfvura.noriel.ro^
@@ -41761,6 +41768,7 @@
 ||hookworm.campaignzee.com^
 ||hooliganmedia.com^
 ||hooligapps.com^
+||hooligs.app^
 ||hoomigri.com^
 ||hoonaptecun.com^
 ||hoood.info^
@@ -47469,6 +47477,7 @@
 ||jy04.shop^
 ||jy05.shop^
 ||jy06.shop^
+||jy07.shop^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
 ||jybnuw.mudah.my^
@@ -47620,6 +47629,7 @@
 ||kaladyaudiology.ericksonbuilt.com^
 ||kalauxet.com^
 ||kaleidoscopeadjacent.com^
+||kaleidoscopefingernaildigging.com^
 ||kaleidoscopepincers.com^
 ||kalganautographeater.com^
 ||kalganpuppycensor.com^
@@ -57708,7 +57718,6 @@
 ||mnwor.xuanlishi.com^
 ||mnzznvpktnqtmm.com^
 ||mo-tuo.com^
-||mo.freeindoapp.com^
 ||mo.gushiji.cc^
 ||mo3i5n46.de^
 ||mo9jr8ie6sier3an.com^
@@ -59279,6 +59288,7 @@
 ||nd.nasdaqtech.nasdaq.com^
 ||ndandinter.hair^
 ||ndaspiratiotyukn.com^
+||ndatgiicef.com^
 ||ndaymidydlesswale.info^
 ||ndccouuyotn.com^
 ||ndcomemuni.com^
@@ -61304,6 +61314,7 @@
 ||ofpiplupon.com^
 ||ofqkbk.proclipusa.com^
 ||ofqopmnpia.com^
+||ofqvca.xyz^
 ||ofrapidashr.com^
 ||ofseedotom.com^
 ||ofslakotha.com^
@@ -69603,6 +69614,7 @@
 ||renewedinexorablepermit.com^
 ||renewmodificationflashing.com^
 ||renewpacificdistrict.com^
+||renohj.xyz^
 ||renoiceland.com^
 ||renovatefairfaxmope.com^
 ||rensuvoofeex.com^
@@ -70279,6 +70291,7 @@
 ||rieversfidate.com^
 ||riffingwiener.com^
 ||riffledyanked.click^
+||rifjhukaqoh.com^
 ||riflesurfing.xyz^
 ||riftharp.com^
 ||rigembassyleaving.com^
@@ -84861,6 +84874,7 @@
 ||tbiwkjomju.com^
 ||tbjasp.cyrillus.de^
 ||tbknig.ecc.jp^
+||tblnreehmapc.com^
 ||tbm.snssdk.com^
 ||tbmgyz.centerparcs.de^
 ||tbmwkwbdcryfhb.xyz^
@@ -86606,6 +86620,7 @@
 ||toovoala.net^
 ||top-casting-termine.de^
 ||top-fwz1.mail.ru^
+||top-js-metrics.top.my.ua^
 ||top-offers1.com^
 ||top-performance.best^
 ||top-performance.club^
@@ -92631,6 +92646,7 @@
 ||vcvacpaenqepvm.com^
 ||vcvnsyewnv.com^
 ||vcxipynawv.com^
+||vcxv787.fun^
 ||vcxzp.com^
 ||vczypss.com^
 ||vd-test.net.anwalt.de^
@@ -95903,7 +95919,6 @@
 ||wpihekqpm.xyz^
 ||wpinfnyp.com^
 ||wpjhenqutmdzd.com^
-||wpkdqrzzcodvjc.com^
 ||wpkfti.1300k.com^
 ||wpncdn.com^
 ||wpnetwork.eu^
@@ -97176,7 +97191,6 @@
 ||xait.actonservice.com^
 ||xajibur.ru^
 ||xajqhrrrnxmy.com^
-||xakfdicg.com^
 ||xalienstreamx.com^
 ||xambxhihx.com^
 ||xameleonads.com^
