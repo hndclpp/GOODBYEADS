@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-17 08:35:43（北京时间）
+! Version: 2024-09-17 20:16:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99479
+! Total count: 99475
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2425,7 +2425,6 @@
 ||6d39809b4a.com^
 ||6de72955d8.com^
 ||6df90c4978.0eade9dd8d.com^
-||6dffc00153.com^
 ||6e.co.kr^
 ||6e391732a2.com^
 ||6e8a9948e0.6e391732a2.com^
@@ -10253,6 +10252,7 @@
 ||adsmart.net^
 ||adsmeasurement.com^
 ||adsmetadata.mobileadexchange.net^
+||adsmg.fanfox.net^
 ||adsmind.apdcdn.tc.qq.com^
 ||adsmind.gdtimg.com^
 ||adsmind.tc.qq.com^
@@ -17128,7 +17128,6 @@
 ||bannerswap.com^
 ||bannersweb.s3.amazonaws.com^
 ||bannertesting.com^
-||bannerwall.herewetest.com^
 ||bannerwall.s3.appcnt.com^
 ||bannery.ccb.cz^
 ||bannery.cz^
@@ -22448,7 +22447,6 @@
 ||civilizationperspirationhoroscope.com^
 ||civilizationthose.com^
 ||civith.com^
-||civyiqok.com^
 ||ciwedsem.xyz^
 ||ciwhacheho.pro^
 ||cixompoqpbgh.com^
@@ -27065,6 +27063,7 @@
 ||dacpibaqwsa.com^
 ||dad-api.dcard.tw^
 ||dad1mq193mgtr.cloudfront.net^
+||dad524dd40.com^
 ||dadalytics.it^
 ||dadatuwz.com^
 ||dadi.technology^
@@ -36585,6 +36584,7 @@
 ||frezahkthnz.com^
 ||frfetchme.com^
 ||frfhhcxeqkubk.xyz^
+||frgf99.fun^
 ||frhbrkjgerikm2f8mjek09.com^
 ||frhjqdgtfeb.com^
 ||fri4esianewheywr90itrage.com^
@@ -37260,7 +37260,6 @@
 ||gandmotivatin.info^
 ||gandrad.org^
 ||ganehangmen.com^
-||gangerburler.com^
 ||ganglia.aomg5bzv7.com^
 ||gangsterpracticallymist.com^
 ||gangsterstillcollective.com^
@@ -37912,7 +37911,6 @@
 ||gflpvq.rufflebutts.com^
 ||gfmvxeeqcrhy.com^
 ||gfn1.ugap.fr^
-||gfnektqogda.com^
 ||gfnfzleduflvkt.com^
 ||gfnokk.natro.com^
 ||gforanythingam.com^
@@ -45488,7 +45486,6 @@
 ||iqmetrics.zeit.de^
 ||iqmlcia.com^
 ||iqnevmje.com^
-||iqoption.com^
 ||iqpizza.openapp.link^
 ||iqpkee.com^
 ||iqs871.com^
@@ -67393,6 +67390,7 @@
 ||qdeduzaixe.com^
 ||qdibvllqu.com^
 ||qdicel.marymaxim.com^
+||qdickey.top^
 ||qdipsumy.top^
 ||qdkaky.rikilovesriki.com^
 ||qdlbdpsctalt.com^
@@ -73785,7 +73783,6 @@
 ||setka.media^
 ||setlitescmode-4.online^
 ||setlwsb.top^
-||setnessalgy.com^
 ||setonhill.actonservice.com^
 ||setoniale.com^
 ||setopsdata.com^
@@ -89976,7 +89973,6 @@
 ||tubecute.com^
 ||tubeelite.com^
 ||tubeicy.com^
-||tubelevel.com^
 ||tubemogul.com^
 ||tubemountain.com^
 ||tubemov.com^
@@ -97724,7 +97720,6 @@
 ||y66xvgo5i.chuimg.com^
 ||y6zqw.boyspornpics.com^
 ||y738.nhregister.com^
-||y752.milfordmirror.com^
 ||y820.darientimes.com^
 ||y8hxgv9m.kobetsu.co.jp^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
@@ -98790,6 +98785,7 @@
 ||zcswet.com^
 ||zcvtqdyvnhnjp.com^
 ||zcwcep.lojasrede.com.br^
+||zcypmsp.icu^
 ||zd.amautkarite.com^
 ||zdbb.net^
 ||zdbbqb.mancrates.com^
