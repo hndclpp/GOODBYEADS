@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-19 20:17:03（北京时间）
+! Version: 2024-09-20 08:43:16（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99534
+! Total count: 99535
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2155,6 +2155,7 @@
 ||5brxi.icu^
 ||5btekl14.de^
 ||5c01ad4cb7.com^
+||5c4ccd56c9.com^
 ||5c530d2179.com^
 ||5c5991d906.9a857c6721.com^
 ||5ca59a669a.com^
@@ -2613,6 +2614,7 @@
 ||7838d6a4aa.48e455384a.com^
 ||7864.5clo0xmbf.com^
 ||7868d5c036.com^
+||786yfvedhcbxjk.top^
 ||7871.5clo0xmbf.com^
 ||7871.bestinterestings.com^
 ||78733f9c3c.com^
@@ -9605,6 +9607,7 @@
 ||ads-platform.zalo.me^
 ||ads-query.luizalabs.com^
 ||ads-resources.waze.com^
+||ads-router-noneu.truecaller.com^
 ||ads-sdk.mattel163.com^
 ||ads-sdk.nianticlabs.com^
 ||ads-server.mxplay.com^
@@ -10713,7 +10716,6 @@
 ||adwalte.info^
 ||adway.org^
 ||adwhirl.com^
-||adwile.com^
 ||adwmab.card-db.com^
 ||adworldnetwork.com^
 ||adworx.be^
@@ -12283,6 +12285,7 @@
 ||anale-sex.nl^
 ||analitica.webrpp.com^
 ||analitik.bik.gov.tr^
+||analitik.pendik.bel.tr^
 ||analitits.com^
 ||analog.cell.phone.service.sms13.de^
 ||analog.sms13.de^
@@ -13297,7 +13300,6 @@
 ||annesuspense.com^
 ||annexecamelot.com^
 ||annexere.top^
-||annienne.com^
 ||annihilationtile.com^
 ||anniversaryblaspheme.com^
 ||anniversarythingy.com^
@@ -14908,7 +14910,6 @@
 ||apwip.actonservice.com^
 ||apxl.io^
 ||apxlv.com^
-||apycdn.com^
 ||apytbfdzy.com^
 ||apzawhajrrci.com^
 ||apzgcipacpu.com^
@@ -18151,6 +18152,7 @@
 ||bg4nxu2u5t.com^
 ||bgadx.com^
 ||bgaycm.exvital-shop.de^
+||bgbg00.fun^
 ||bgbkvawcctzqql.com^
 ||bgbqfqwi.xyz^
 ||bgbtqizsdziw.com^
@@ -18654,6 +18656,7 @@
 ||blinks.outcomes4me.com^
 ||blinkstest.mindoktor.se^
 ||blinktowel.com^
+||blinxmi.icu^
 ||blismedia.com^
 ||bliss91.com^
 ||blisscleopatra.com^
@@ -19509,7 +19512,6 @@
 ||brassstacker.com^
 ||brasthingut.com^
 ||brattieseries.com^
-||braun634.com^
 ||bravantrent.eccocar.com^
 ||bravetense.com^
 ||bravia-cfgdst-ore-pro.bda.ndmdhs.com^
@@ -24394,7 +24396,6 @@
 ||contents.pwc.com^
 ||contentshamper.com^
 ||context.hotline.ua^
-||contextbar.ru^
 ||contextualyield.com^
 ||contextweb.com^
 ||contineljs.com^
@@ -24839,7 +24840,6 @@
 ||cpa.aomg5bzv7.com^
 ||cpa.hh.ru^
 ||cpa3iqcp.de^
-||cpa6.ru^
 ||cpabeyond.com^
 ||cpaclicks.com^
 ||cpaconvtrk.net^
@@ -32771,6 +32771,7 @@
 ||embolipokies.com^
 ||embolysaros.click^
 ||embosknitos.com^
+||embowerdatto.com^
 ||embracetrace.com^
 ||embrailcamino.top^
 ||embtrk.com^
@@ -32796,7 +32797,6 @@
 ||emetrics.bose.com^
 ||emgthropositeas.info^
 ||emgykcjvkel.com^
-||emierete.com^
 ||emigrantblunder.com^
 ||emigrantmovements.com^
 ||emigreehurty.top^
@@ -36977,6 +36977,7 @@
 ||fwqmwyuokcyvom.xyz^
 ||fwrnmmvxsfcrcqk.com^
 ||fwrwuzhpmw.com^
+||fwsfwef2.fun^
 ||fwsgvo.takami-labo.com^
 ||fwsoviw.com^
 ||fwtracks.freshmarketer.com^
@@ -38534,7 +38535,6 @@
 ||gnditiklas.com^
 ||gndkcpwowxnc.com^
 ||gndyowk.com^
-||gnezdo.news^
 ||gnezdo.ru^
 ||gnfavfqifukyyl.com^
 ||gnfjvt.radpowerbikes.com^
@@ -43798,6 +43798,7 @@
 ||imrworldwide.com^
 ||imstks.com^
 ||imtmp.net^
+||imusye.xyz^
 ||imvjcds.com^
 ||imwxsu.xyz^
 ||imxsvpxe.xyz^
@@ -43980,6 +43981,7 @@
 ||infinityid.condenastdigital.com^
 ||infinitypixel.online^
 ||infirmaryboss.com^
+||infisecure.com^
 ||inflameemanent.cam^
 ||inflateimpediment.com^
 ||inflationabstinence.com^
@@ -45066,7 +45068,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installscrayfishpenal.com^
 ||installslocalweep.com^
@@ -48335,7 +48336,6 @@
 ||kscmqmrlrepwim.com^
 ||ksdlumuhym.com^
 ||ksehinkitw.hair^
-||kshop2.biz^
 ||kshrsf.icu^
 ||kshzlyvbaaa.com^
 ||ksnbiepnvjdi.com^
@@ -48802,6 +48802,7 @@
 ||laizuwhy.com^
 ||lajeshuru.pro^
 ||lajevt.xyz^
+||lajjmqeshj.com^
 ||lajouly.com^
 ||lake.joongang.co.kr^
 ||lake.studydrive.net^
@@ -49605,7 +49606,6 @@
 ||likenewvids.online^
 ||likescenesfocused.com^
 ||likevertising.com^
-||likondok.com^
 ||liktufmruav.com^
 ||lilacbeaten.com^
 ||lilacsloppy.com^
@@ -50314,7 +50314,6 @@
 ||linkerspond.com^
 ||linkev.com^
 ||linkexchange.com^
-||linkexchange.ru^
 ||linkhaitao.com^
 ||linkhealth-app.hotdoc.com.au^
 ||linking.venueapp-system.com^
@@ -57400,6 +57399,7 @@
 ||mm.nwell.net^
 ||mm.openapp.link^
 ||mm.paizi.net^
+||mm.wxc.cc^
 ||mmadsgadget.com^
 ||mmarkhigh.actonservice.com^
 ||mmc-ltd.actonservice.com^
@@ -61228,6 +61228,7 @@
 ||okhrtusmuod.com^
 ||okhwxl.rnainc.jp^
 ||okiafogless.top^
+||okiterk.top^
 ||okjjwuru.com^
 ||okjxihboesueh.com^
 ||okkbugnixajf.com^
@@ -64340,6 +64341,7 @@
 ||phumsise.com^
 ||phupours.com^
 ||phursefter.net^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvfevk.xyz^
 ||phvhnxebmrzf.com^
@@ -65216,6 +65218,7 @@
 ||pmxyzqm.com^
 ||pmzbrfpijoa.com^
 ||pmzer.com^
+||pmzlnt.xyz^
 ||pn.wendatopen.com^
 ||pnaagn.haekplanter-heijnen.dk^
 ||pncdn.cn^
@@ -65322,7 +65325,6 @@
 ||pokjhgrs.click^
 ||pokomopunkin.top^
 ||pokreess.com^
-||pokrutim.ru^
 ||pol3.cheque-domicile.fr^
 ||polacrereacts.top^
 ||polads.pro^
@@ -66660,6 +66662,7 @@
 ||ptarmigan.natalieba.net^
 ||ptarmigan.q-free.com^
 ||ptatexiwhe.com^
+||ptatzrucj.com^
 ||ptaujoot.net^
 ||ptaumoadsovu.com^
 ||ptaunsoova.com^
@@ -73406,7 +73409,6 @@
 ||see.yousoon.com^
 ||seeablywitness.com^
 ||seebait.com^
-||seed.by^
 ||seedapp-creative.s3.amazonaws.com^
 ||seedconsistedcheerful.com^
 ||seedlingneurotic.com^
@@ -78592,7 +78594,6 @@
 ||solrtrqaitnjy.com^
 ||solubleallusion.com^
 ||solucionesreales.americanexpress.es^
-||solution-solutions.com^
 ||solution.agc-chemicals.com^
 ||solution.resonac.com^
 ||solution911.com^
@@ -81847,6 +81848,7 @@
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||statystyki.panelek.com^
 ||staubsuthil.com^
+||staukaul.com^
 ||staumersleep.com^
 ||staunchchivied.top^
 ||staunchgenetwitch.com^
@@ -90536,8 +90538,6 @@
 ||ub.finanzfrage.net^
 ||ub1.job592.com^
 ||ubadzufyfjcd.com^
-||ubar-pro4.ru^
-||ubar.pro^
 ||ubbfpm.com^
 ||ubdiysvv.com^
 ||ubdjdtraxe.com^
@@ -90687,7 +90687,6 @@
 ||ufgkypfhervr.com^
 ||ufiledsit.com^
 ||ufiler-pro2.ru^
-||ufiler.pro^
 ||ufinkln.com^
 ||ufjslit.top^
 ||uflfhl.mercci22.com^
@@ -91738,7 +91737,6 @@
 ||uthounie.com^
 ||util-*.simply-hentai.com^
 ||util.aomg5bzv7.com^
-||utilieur.com^
 ||utilitymerle.top^
 ||utilitypresent.com^
 ||utilitytied.com^
@@ -93389,6 +93387,7 @@
 ||vv1.pyhfxdm.cn^
 ||vv8h9vyjgnst.com^
 ||vvaaol.enuygun.com^
+||vvadz.cc^
 ||vvehvch.com^
 ||vvgpkowlun.com^
 ||vvikao.brighton.com^
@@ -95399,7 +95398,6 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
-||worldinform.ru^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
 ||worldnetpr.actonservice.com^
@@ -95495,6 +95493,7 @@
 ||wpooxqs.com^
 ||wpowiqkgykf.com^
 ||wppyub.mygenerator.com.au^
+||wpsbaq.xyz^
 ||wpshsdk.com^
 ||wpsmcns.com^
 ||wpsykwqdjodeabl.com^
@@ -95759,6 +95758,7 @@
 ||wwaeljajwvlrw.top^
 ||wwaeljajwvywm.top^
 ||wwahuxzipoc.com^
+||wwaowwonthco.com^
 ||wwarvlorkeww.top^
 ||wwarvlorobzw.top^
 ||wwbeqrhjwnijdk.com^
@@ -98700,6 +98700,7 @@
 ||yzyvfrfran.com^
 ||yzzqza.vanillashu.co.kr^
 ||z.cdn.adpool.bet^
+||z.cdn.braun634.com^
 ||z.cdp-dev.cnn.com^
 ||z.grfyw.com^
 ||z.inlist.com^
