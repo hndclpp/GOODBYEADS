@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-20 08:43:16（北京时间）
+! Version: 2024-09-20 20:17:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99535
+! Total count: 99538
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3055,7 +3055,6 @@
 ||96a70a4ce7.cde5138b76.com^
 ||96b600f50a.a0e351a3aa.com^
 ||96kso.online^
-||96n5r5va.top^
 ||9704.5clo0xmbf.com^
 ||9730.seponews.com^
 ||9735476.sender.skyscanner.com^
@@ -10031,6 +10030,7 @@
 ||ads.xtra.ca^
 ||ads.xtra.co.nz^
 ||ads.yahoo.com^
+||ads.yeeyi.com^
 ||ads.yimg.com^
 ||ads.youtube.com^
 ||ads.zalo.me^
@@ -15165,7 +15165,6 @@
 ||arraysurvivalcarla.com^
 ||arrearscourtyard.com^
 ||arrearsdecember.com^
-||arrearssturdyenthusiasm.com^
 ||arrearstreatyexamples.com^
 ||arriagepuly.top^
 ||arriedstro.work^
@@ -24689,6 +24688,7 @@
 ||count.xxxssk.com^
 ||count.yandeg.ru^
 ||count5.pconline.com.cn^
+||countabledawdlerunaudited.com^
 ||countdownlogic.com^
 ||countdownwildestmargarine.com^
 ||counted.com^
@@ -25329,6 +25329,7 @@
 ||cscsexam.quantresear.ch^
 ||csdcfvgf4.fun^
 ||csdf4dn.pro^
+||csdsa22.fun^
 ||cse3.chausport.com^
 ||csfabdtmrs.com^
 ||csggmxrbt.com^
@@ -29703,6 +29704,7 @@
 ||dkrqyly.com^
 ||dkrxtdnlg.com^
 ||dkskbu.demae-can.com^
+||dkstrtss.xyz^
 ||dktr03lf4tq7h.cloudfront.net^
 ||dkuekrwiwr.com^
 ||dkupaw9ae63a8.cloudfront.net^
@@ -47015,7 +47017,6 @@
 ||js.stroeermediabrands.de^
 ||js.syosetu.top^
 ||js.ubaike.cn^
-||js.winc-ad.com^
 ||js.wpadmngr.com^
 ||js.wpshsdk.com^
 ||js.wpushsdk.com^
@@ -50764,6 +50765,7 @@
 ||lkhmkmhlqst.xyz^
 ||lkhrtf.beveragefactory.com^
 ||lkiawpwigg.com^
+||lkiterl.top^
 ||lkj23jlkajsa.realestate.help^
 ||lkjgdyhtdrnau.com^
 ||lkjoncgixi.com^
@@ -58007,6 +58009,7 @@
 ||mozoo.com^
 ||mozoo.go2cloud.org^
 ||mp-pop.barryto.one^
+||mp.imgur.com^
 ||mp.pitchero.com^
 ||mp.theepochtimes.com^
 ||mp3bars.com^
@@ -61266,7 +61269,6 @@
 ||old-go.pro^
 ||old.globalservices.arrow.com^
 ||olderdeserved.com^
-||oldergaleus.com^
 ||oldersfeuars.top^
 ||oldership.com^
 ||oldeststrickenambulance.com^
@@ -64711,6 +64713,7 @@
 ||pizzlessclimb.top^
 ||pj.uptraceforlore.com^
 ||pjagilteei.com^
+||pjaihds.icu^
 ||pjbncv.ode.co.kr^
 ||pjcijbv.icu^
 ||pjdthz.xyz^
@@ -66478,7 +66481,6 @@
 ||prugskh.net^
 ||prulruyaoq.com^
 ||prunas.openapp.link^
-||prunerceleb.top^
 ||prunesderelicttug.com^
 ||prunestownpostman.com^
 ||prutosom.com^
@@ -95428,6 +95430,7 @@
 ||worthlesspattern.com^
 ||worthlessstrings.com^
 ||worthspontaneous.com^
+||worthwhile-wash.com^
 ||worthwhileawe.com^
 ||worthylighteravert.com^
 ||wotasia2.login.wargaming.net.iberostar.com^
