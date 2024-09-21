@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-20 20:17:11（北京时间）
+! Version: 2024-09-21 08:42:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14557
+! Total count: 14561
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -4529,6 +4529,7 @@
 @@||endesaclientes.com/*/ruxitagentjs_*.js$domain=endesaclientes.com
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||enfermeria.gnomio.com^$generichide
+@@||engagently.com/graphql$stealth=3p-auth,xmlhttprequest
 @@||engine.univtec.com^$generichide
 @@||england101.com/assets/js/prebid-add.js
 @@||enit.in^$generichide
@@ -7327,6 +7328,7 @@
 @@||img.segmentify.com^$domain=mediamarkt.com.tr
 @@||img.segmentify.com^$image,domain=gratis.com
 @@||img.soft98.ir/*/300x250.
+@@||img.soutula.com^$stealth=referrer,domain=fabiaoqing.com
 @@||img.techwallacdn.com/300x250/photos.demandstudios.com/getty/article/*/*.jpg
 @@||img.tfd.com/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
@@ -11055,6 +11057,7 @@
 @@||rapidvid.net/vod/$stealth=referrer
 @@||rappers.in/js/antiadblock.js
 @@||raptu.com/e/$generichide
+@@||rat.rakuten.co.jp^$app=jp.co.rakuten.pay
 @@||ratatype.com^$generichide
 @@||ratemyprofessors.com/assets/libs/adFrame_ads-*.js
 @@||ratemyteachers.com/ads.js
@@ -13485,6 +13488,7 @@
 @@||tweakers.net/aanbod/admanager/
 @@||tweaktown.com^$generichide,badfilter
 @@||twitch.tv^$generichide
+@@||twitch.tv^$websocket,permissions
 @@||twitchadvertising.tv/wp-content/uploads/2014/06/header_logo_advertising.png
 @@||twitter.com$domain=bleacherreport.com
 @@||twitter.com/adlink_tech
