@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-26 08:44:04（北京时间）
+! Version: 2024-09-26 20:17:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99991
+! Total count: 99988
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8541,7 +8541,6 @@
 ||ad.cdnjm.cn^
 ||ad.centrum.cz^
 ||ad.cgi.cz^
-||ad.chieuhoa.com^
 ||ad.choiceradio.com^
 ||ad.citynews.it^
 ||ad.clicrbs.com.br^
@@ -16437,7 +16436,6 @@
 ||axkcmb.mosigra.ru^
 ||axkwmsivme.com^
 ||axkwyf.edinos.pl^
-||axlemuskrat.top^
 ||axlohcsruwak.com^
 ||axlpackugrra.com^
 ||axnskz.power-stones.jp^
@@ -21347,7 +21345,6 @@
 ||cbjg.cqnews.net^
 ||cbjs.baidu.com^
 ||cbl6.destinia.gt^
-||cbmtqltb.com^
 ||cbnkmisvop.com^
 ||cbnzop.c-c-j.com^
 ||cbpgpg.bombshellsportswear.com^
@@ -23755,6 +23752,7 @@
 ||colleyporule.top^
 ||colliers.actonservice.com^
 ||collisionasheseliminate.com^
+||colloqlarum.com^
 ||colloquialassassinslavery.com^
 ||collowhypoxis.com^
 ||colognenobilityfrost.com^
@@ -25770,7 +25768,6 @@
 ||cuttingstrikingtells.com^
 ||cuttlefly.com^
 ||cuvtnzv.cn^
-||cuvystein.top^
 ||cuwlmupz.com^
 ||cuyynol.com^
 ||cuzsgqr.com^
@@ -28530,7 +28527,6 @@
 ||defpush.com^
 ||defybrick.com^
 ||defygravity.convio.com^
-||degamisdunted.com^
 ||degenerateabackjaguar.com^
 ||degeneratecontinued.com^
 ||degeronium.com^
@@ -33125,6 +33121,7 @@
 ||endurancetransmitted.com^
 ||endurecorpulent.com^
 ||enduresopens.com^
+||endwaysdsname.com^
 ||endymehnth.info^
 ||enebyq.com^
 ||enejvkctedmos.com^
@@ -35053,6 +35050,7 @@
 ||faulterdeplume.com^
 ||faultspiano.com^
 ||fauneeptoaso.com^
+||fauphoaglu.net^
 ||fausothaur.com^
 ||fauvekintra.com^
 ||fauwhoocoa.com^
@@ -36876,6 +36874,7 @@
 ||fromjoytohappiness.com^
 ||fromoffspringcaliber.com^
 ||frompilis.com^
+||frondsgenoas.com^
 ||front.optimonk.com^
 ||frontcognizance.com^
 ||frontendcodingtips.com^
@@ -39478,6 +39477,7 @@
 ||gone.pronhub.fun^
 ||goneawaytogy.info^
 ||goneryacked.top^
+||gonoushauw.net^
 ||gontent.powzers.lol^
 ||gonzalodaemon.top^
 ||goo-access-analytics.appspot.com^
@@ -47309,7 +47309,6 @@
 ||jsgdvkjz.com^
 ||jsgmsoapx.com^
 ||jshkyh.29cm.co.kr^
-||jskluiqm.com^
 ||jslog.post.cz^
 ||jslog.zapps.vn^
 ||jsmcrpu.com^
@@ -60142,6 +60141,7 @@
 ||nogxjk.dackonline.se^
 ||nohaxn.damattween.com^
 ||nohezu.xyz^
+||nohowsankhya.com^
 ||noiselessvegetables.com^
 ||noisesperusemotel.com^
 ||noisybeforemorton.com^
@@ -64678,6 +64678,7 @@
 ||pianistcampingroom.com^
 ||piarecdn.com^
 ||piaroankenyte.store^
+||piazzatepal.com^
 ||pibhjs.dongsuhfurniture.co.kr^
 ||pic.0597kk.com^
 ||pic.aomg5bzv7.com^
@@ -68278,6 +68279,7 @@
 ||quesid.com^
 ||quest.epoise.com^
 ||questaffiliates.net^
+||questeelskin.com^
 ||questintegrity.actonservice.com^
 ||question.hot-step-mom.com^
 ||question.snapiio.com^
@@ -69090,6 +69092,7 @@
 ||rebindskayoes.com^
 ||rebojf.xyz^
 ||rebonebilify.click^
+||rebosoyodle.com^
 ||rebrew-foofteen.com^
 ||rebsoapo.com^
 ||rebsouvaih.com^
@@ -70639,7 +70642,6 @@
 ||romancepotsexists.com^
 ||romanlicdate.com^
 ||romanticwait.com^
-||romanzafanatic.com^
 ||romashk9arfk10.com^
 ||romauntmirker.com^
 ||romepoptahul.com^
@@ -78861,7 +78863,6 @@
 ||socksupgradeproposed.com^
 ||sockwardrobe.com^
 ||sockzoomtoothbrush.com^
-||soclecoak.com^
 ||socs.hagerty.com^
 ||sodainquired.com^
 ||sodallay.com^
@@ -82394,7 +82395,6 @@
 ||stifleadventureempire.com^
 ||stiflefloral.com^
 ||stiflepowerless.com^
-||stifoapt.com^
 ||stiftood.xyz^
 ||stigala.com^
 ||stigat.com^
@@ -90183,7 +90183,6 @@
 ||trmnsite.com^
 ||trmobc.com^
 ||trndabegvhndg.com^
-||trockedtawpy.top^
 ||trodspivery.com^
 ||troduc.com^
 ||trojangfw.xyz^
@@ -90869,7 +90868,6 @@
 ||u47.pnc.com^
 ||u4ccj.icu^
 ||u55011.com^
-||u566.chron.com^
 ||u578.wlwt.com^
 ||u595sebqih.com^
 ||u59shs96o.com^
@@ -93919,7 +93917,6 @@
 ||w0057.com^
 ||w0079.com^
 ||w0082.com^
-||w020.newmilfordspectrum.com^
 ||w1.askwai.com^
 ||w1.bskwai.com^
 ||w1.cskwai.com^
