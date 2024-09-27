@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-27 08:44:34（北京时间）
+! Version: 2024-09-27 20:17:26（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100010
+! Total count: 100026
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -615,7 +615,6 @@
 ||154.7.80.158^
 ||1548164934.rsc.cdn77.org^
 ||154886c13e.com^
-||1551235f72.com^
 ||1553.4puuqeh41.com^
 ||1556.4puuqeh41.com^
 ||1558334541.rsc.cdn77.org^
@@ -12198,7 +12197,6 @@
 ||ameoutofthe.info^
 ||ameowli.com^
 ||amer.juniper.net^
-||americadebus.click^
 ||americanmarketinggroup.actonservice.com^
 ||americanportfolios.actonservice.com^
 ||americanroller.actonservice.com^
@@ -12359,10 +12357,14 @@
 ||an.xemvtv.net^
 ||an.yandex.ru^
 ||an.yesnetwork.com^
+||ana.3751chat.com^
 ||ana.bandi.so^
+||ana.chat.shalove.net^
 ||ana.e-ticket.co.jp^
 ||ana.gomtv.com^
+||ana.luvul.net^
 ||ana.mediable.info^
+||ana.skypemeet.net^
 ||ana.tv5unis.ca^
 ||anacampaign.com^
 ||anacjpmrv.com^
@@ -12474,6 +12476,7 @@
 ||analytics-logger.service.junctiontv.net^
 ||analytics-mkt.wemakeprice.com^
 ||analytics-nssl.bradyid.com^
+||analytics-op.streak.ninja^
 ||analytics-prd.aws.wehaa.net^
 ||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^
 ||analytics-prod2.glance-internal.inmobi.com^
@@ -16936,7 +16939,6 @@
 ||backfireaccording.com^
 ||backfiremountslippery.com^
 ||backfirestomachreasoning.com^
-||backforward.bid^
 ||backgroundcocoaenslave.com^
 ||backla2z8han09.com^
 ||backlinkwatch.com^
@@ -17016,6 +17018,7 @@
 ||baifaphoa.com^
 ||baifen.music.baidu.com^
 ||baigamp.icu^
+||baigh8eosmgie01.site^
 ||baijs010.shop^
 ||baijs010.xyz^
 ||baijs011.xyz^
@@ -20770,7 +20773,6 @@
 ||caigobou.com^
 ||caimoasy.net^
 ||cainauhi.xyz^
-||cainianprober.com^
 ||cairalei.com^
 ||caitoasece.com^
 ||caizutoh.xyz^
@@ -24863,6 +24865,7 @@
 ||counter.ajansspor.com^
 ||counter.all.biz^
 ||counter.any.run^
+||counter.best-hit.tv^
 ||counter.blogoscoop.net^
 ||counter.bloke.com^
 ||counter.cam-content.com^
@@ -24967,6 +24970,7 @@
 ||coveredbetting.com^
 ||coveredsnortedelectronics.com^
 ||coveredstress.com^
+||covettunica.com^
 ||covivado.club^
 ||cow-timerbudder.org^
 ||cowardsagrias.com^
@@ -29863,6 +29867,7 @@
 ||dk4ywix.com^
 ||dk57sacpbi4by.cloudfront.net^
 ||dkagiqnjsdoqli.com^
+||dkasdeerw.xyz^
 ||dkbgcxltwljdua.com^
 ||dkbicq.elektramat.nl^
 ||dkclxi.sitkagear.com^
@@ -35885,7 +35890,6 @@
 ||fkcvtiqbbgedb.com^
 ||fkdaik.lightinthebox.com^
 ||fkecheotlf.com^
-||fkehg.com^
 ||fkesfg.com^
 ||fkeupa.bett1.de^
 ||fkhxlz.xyz^
@@ -37625,6 +37629,7 @@
 ||gazehound25.fun^
 ||gazelle.editorclub.com^
 ||gazelle.laurenagray.com^
+||gazozfelines.shop^
 ||gazumpers27.fun^
 ||gb-asymbo.m-shop.me^
 ||gb.click.finning.com^
@@ -38216,6 +38221,7 @@
 ||ggduzx.potterybarn.com.kw^
 ||ggetsurv4youu.com^
 ||ggetsurveey.com^
+||ggfdgd88.fun^
 ||gggetsurveey.com^
 ||gggtrenks.com^
 ||gghhce96.shop^
@@ -38498,6 +38504,7 @@
 ||glassmoni.researchgate.net^
 ||glasssmash.site^
 ||glatatsoo.net^
+||glaubsoopsehen.net^
 ||glaubuph.com^
 ||glaultoa.com^
 ||glaurtas.com^
@@ -40290,6 +40297,7 @@
 ||guppy.omana.me^
 ||gupqacqf.com^
 ||guq9.vente-unique.it^
+||gurgehumours.com^
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
 ||gurimix.com^
@@ -41846,6 +41854,7 @@
 ||honeymoondisappointed.com^
 ||honeymoonregular.com^
 ||honeyreadinesscentral.com^
+||hongi7ie8owiie01.site^
 ||honitonchyazic.com^
 ||honknl.xyz^
 ||honkoutsing.com^
@@ -45489,7 +45498,6 @@
 ||intersectionboth.com^
 ||intersectiondejectedfaraway.com^
 ||intersectionweigh.com^
-||interstat.hu^
 ||interstateflannelsideway.com^
 ||interstitial-07.com^
 ||interstitial-08.com^
@@ -46519,6 +46527,7 @@
 ||jdhgswknl.com^
 ||jdhpfnfc.com^
 ||jdickea.top^
+||jdiekknmcb.com^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdkmbvbyy.com^
@@ -46814,6 +46823,7 @@
 ||jitbdhqp.com^
 ||jitigkvqf.com^
 ||jitsu.ixbt.com^
+||jiuab8eig2oateh01.site^
 ||jiujy5r3.fun^
 ||jiupaozi.com^
 ||jiusudie.com^
@@ -47721,6 +47731,7 @@
 ||kaijooth.net^
 ||kailsfrot.com^
 ||kainahguanyl.top^
+||kainitwhip.com^
 ||kaisaimy.net^
 ||kaiseki-website.com^
 ||kaishepe.xyz^
@@ -49202,6 +49213,7 @@
 ||lardonsmein.top^
 ||lardpersecuteunskilled.com^
 ||lardyirreproachabledeserve.com^
+||lardyjeg.com^
 ||larentisol.com^
 ||largeconfusion.com^
 ||largeharass.com^
@@ -49776,7 +49788,6 @@
 ||lhmos.com^
 ||lhp-mortgage.loanzify.com^
 ||lhrzel.enterprise.com.tr^
-||lhthasavpvpi.com^
 ||lhtnuop.xyz^
 ||lhtzfn.xyz^
 ||lhzbdvm.com^
@@ -51214,6 +51225,7 @@
 ||lobesforcing.com^
 ||lobfrbrlx.com^
 ||loboclick.com^
+||loboloshetaery.com^
 ||lobster.justunderwear.com^
 ||lobster.tonebleed.com^
 ||lobster.unionpeer.com^
@@ -61923,7 +61935,6 @@
 ||omvenusaurchan.com^
 ||omvzcq.vidaxl.be^
 ||omxodt.shredoptics.com^
-||omyxufgegg.com^
 ||omzoroarkan.com^
 ||omzxutfm.com^
 ||omzylhvhwp.com^
@@ -64121,6 +64132,7 @@
 ||peacockshudder.com^
 ||peacto.com^
 ||peafowl.projectstrackt.dev^
+||peagsraters.com^
 ||peakclick.com^
 ||peakluckily.com^
 ||peakpushedancestor.com^
@@ -64192,7 +64204,6 @@
 ||pegloang.com^
 ||pegoxylphillip.com^
 ||pehkmy.edreams.pt^
-||peiningmycoses.com^
 ||peiq.services^
 ||peirs5tbakchios.com^
 ||peisantcorneas.com^
@@ -65834,6 +65845,7 @@
 ||porcelainviolationshe.com^
 ||porcupine.dvresolve.com^
 ||poredii.com^
+||porkpielepidin.com^
 ||porn-upload.com^
 ||porn18.me^
 ||porn213419.4puuqeh41.com^
@@ -66781,6 +66793,7 @@
 ||prowlenthusiasticcongest.com^
 ||proxena-images.reviveservers.com^
 ||proxena-secure.reviveservers.com^
+||proxima.midjourney.com^
 ||proximic.com^
 ||proximitywars.com^
 ||proxy.ads.canalplus-bo.net^
@@ -68114,6 +68127,7 @@
 ||qq.vvx.highter.top^
 ||qq.wrating.com^
 ||qqainj.cn^
+||qqbqy.com^
 ||qqdata.ab.qq.com^
 ||qqdflf.lpga.or.jp^
 ||qqdxtmllptdlz.com^
@@ -72156,6 +72170,7 @@
 ||sahiwaldisform.top^
 ||sahqoo.com^
 ||saiceezu.xyz^
+||saigreetoudi.xyz^
 ||saikeela.net^
 ||sailcovertend.com^
 ||sailfish.hoap.com^
@@ -72546,6 +72561,7 @@
 ||sas.samsungcloudsolution.com^
 ||sasc.solidworks.com^
 ||sasdk.3g.qq.com^
+||sasinator.realestate.com.au^
 ||sasinsetuid.com^
 ||sasoowou.net^
 ||sasujooceerg.com^
@@ -79703,7 +79719,6 @@
 ||spelledbullets.top^
 ||spellingorganicbile.com^
 ||spellingunacceptable.com^
-||spemxriyuspxb.com^
 ||spendslaughing.com^
 ||spened.com^
 ||spentbennet.com^
@@ -88430,6 +88445,7 @@
 ||track.spothero.com^
 ||track.starmakerstudios.com^
 ||track.storm.mg^
+||track.streak.ninja^
 ||track.strife.com^
 ||track.sunmedia.tv^
 ||track.tappx.com^
