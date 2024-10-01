@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-01 08:50:46（北京时间）
+! Version: 2024-10-01 20:18:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100191
+! Total count: 100188
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3070,7 +3070,6 @@
 ||9259.5clo0xmbf.com^
 ||9287.4puuqeh41.com^
 ||92934e7e2b.fc9d8824d4.com^
-||92by17snes4.cc^
 ||92c04d81dd.com^
 ||92d8d67482.com^
 ||92e2e3e863.5a6c114183.com^
@@ -10415,7 +10414,6 @@
 ||adsrv.iol.co.za^
 ||adsrv.me^
 ||adsrv.wtf^
-||adsrvmedia.net^
 ||adsrvr.org^
 ||adss.video.qq.com^
 ||adsstat.com^
@@ -15355,6 +15353,7 @@
 ||arwartortleer.com^
 ||arwhismura.com^
 ||arwobaton.com^
+||aryici.xyz^
 ||arylidealchemy.com^
 ||as.adfonic.net^
 ||as.autobild.de^
@@ -25493,7 +25492,6 @@
 ||cryo.socialblade.com^
 ||cryonickru.com^
 ||cryorganichash.com^
-||cryp-o.online^
 ||crypto-o.click^
 ||crypto.egghead.link^
 ||cryptoatom.care^
@@ -39745,7 +39743,6 @@
 ||gpm-mon-sg.bytegsdk.com^
 ||gpm-mon-sg.byteoversea.com^
 ||gpmzkg.xyz^
-||gpnqrmsaesrf.xyz^
 ||gpodipsawtaf.com^
 ||gporkecpyttu.com^
 ||gpplus-app.hotdoc.com.au^
@@ -40804,7 +40801,6 @@
 ||hasdrs.com^
 ||hash-hash-tag.com^
 ||hashbitewarfare.com^
-||hashcoin.co^
 ||hashforcash.us^
 ||hashing.win^
 ||hashnest.com^
@@ -48654,6 +48650,7 @@
 ||krankenwagenmotor.com^
 ||kratosdefense.actonservice.com^
 ||krazil.com^
+||krbulhb.com^
 ||krclyfkitjyvlls.com^
 ||krcykddubkrsjm.xyz^
 ||kreisis.top^
@@ -61457,7 +61454,6 @@
 ||oftheseveryh.org^
 ||ofvosb.jumbo.com.tr^
 ||ofwdvh.suntransfers.com^
-||ofzate.live^
 ||ofzzuqlfuof.com^
 ||og.elemeuric.com^
 ||ogads-pa.googleapis.com^
@@ -72344,7 +72340,6 @@
 ||salivasboucle.top^
 ||salivatreatment.com^
 ||salleamebean.com^
-||sallibted.live^
 ||sallyfundamental.com^
 ||sallyoxenstops.com^
 ||salmiacforked.top^
@@ -90729,6 +90724,7 @@
 ||tuwaqtjcood.com^
 ||tuwopnajwv.com^
 ||tuxbpnne.com^
+||tuxpfiok.icu^
 ||tuxycml.com^
 ||tuxzlhrwejszu.com^
 ||tv-static.scdn.co^
@@ -95747,6 +95743,7 @@
 ||wl-pixel.index.digital^
 ||wl.bl.frequentvalues.com.au^
 ||wl.jd.com^
+||wl.uqwjdhgv.top^
 ||wl.yna.co.kr^
 ||wlafx4trk.com^
 ||wlawpzx.com^
@@ -98414,7 +98411,6 @@
 ||y66xvgo5i.chuimg.com^
 ||y6zqw.boyspornpics.com^
 ||y738.nhregister.com^
-||y752.milfordmirror.com^
 ||y820.darientimes.com^
 ||y8hxgv9m.kobetsu.co.jp^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
@@ -99580,6 +99576,7 @@
 ||zerg.pro^
 ||zerodecisive.com^
 ||zeroingchaus.top^
+||zeryt111.fun^
 ||zerzvqroeveae.top^
 ||zesgky.belambra.fr^
 ||zestpocosin.com^
