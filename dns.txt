@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-05 08:44:02（北京时间）
+! Version: 2024-10-05 20:15:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100249
+! Total count: 100243
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8640,7 +8640,6 @@
 ||ad.mediastorm.hu^
 ||ad.megapeer.ru^
 ||ad.mgd.de^
-||ad.mobiuspace.net^
 ||ad.moe.video^
 ||ad.moo-mam-tai.com^
 ||ad.mox.tv^
@@ -12274,7 +12273,6 @@
 ||amorousstableminister.com^
 ||amorphousankle.com^
 ||amorphouscomprise.com^
-||amorphouspimple.com^
 ||amortkanjis.shop^
 ||amountdonutproxy.com^
 ||amourethenwife.top^
@@ -21079,7 +21077,6 @@
 ||care.southeasthealth.org^
 ||care.stlukes-stl.com^
 ||care.universityhealth.com^
-||caredaymop.live^
 ||careerconnect.epoise.com^
 ||careers.coniferhealth.com^
 ||careers.hotjar.com^
@@ -21197,7 +21194,6 @@
 ||cashprom.ru^
 ||cashtrafic.com^
 ||cashtrafic.info^
-||casinobrigadereport.com^
 ||casinogames.com^
 ||casinohacksforyou.com^
 ||casinopays.com^
@@ -30353,6 +30349,7 @@
 ||donkstar1.online^
 ||donkstar2.online^
 ||donneesskilder.top^
+||donnishsubgrin.com^
 ||dontent.powzers.lol^
 ||dontent.powzerz.lol^
 ||donttbeevils.de^
@@ -35554,7 +35551,6 @@
 ||fiatgrabbed.com^
 ||fiawmk.empik.com^
 ||fibaffluencebetting.com^
-||fibbermedia.com^
 ||fibberpuddingstature.com^
 ||fibdistrust.com^
 ||fiber.zayo.com^
@@ -35601,6 +35597,7 @@
 ||fiiqmjyrznkhbv.com^
 ||fiisscqwokt.com^
 ||fijekone.com^
+||fijiicaria.com^
 ||fijipic.xyz^
 ||fikedaquabib.com^
 ||filament-stats.herokuapp.com^
@@ -38157,6 +38154,7 @@
 ||getinfo.fullsail.edu^
 ||getintopc.today^
 ||getjad.io^
+||getjan.io^
 ||getkmspico.com^
 ||getl4w.lookout.com^
 ||getmackeepersoftpro.xyz^
@@ -38560,6 +38558,7 @@
 ||glaxaukr.net^
 ||glazegha.com^
 ||glazepalette.com^
+||glazieroometer.click^
 ||glbgox.djoser.de^
 ||glbtrk.com^
 ||gld.samsungosp.com^
@@ -41673,7 +41672,6 @@
 ||hjhbyywgzxxqzu.com^
 ||hjhwjphsryi.com^
 ||hjiosopece.xyz^
-||hjiss.com^
 ||hjiwoazeigefn.com^
 ||hjjshv.xyz^
 ||hjkhxfh.360doc.cn^
@@ -42372,7 +42370,6 @@
 ||hudrftcspuf.com^
 ||hueadsxml.com^
 ||huechl.paige.com^
-||huefundfly.live^
 ||huehinge.com^
 ||hufaztjist.com^
 ||hugelog.fcbox.com^
@@ -42539,7 +42536,6 @@
 ||hwof.info^
 ||hwosl.cloud^
 ||hwpnocpctu.com^
-||hwpqjaiox.xyz^
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||hwpvbdj.xyz^
 ||hwpyfcxahv.com^
@@ -43190,7 +43186,6 @@
 ||ijebtcgu.com^
 ||ijeetsie.com^
 ||ijeujkdhnvb.top^
-||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||ijhlca.lulus.com^
 ||ijhpdtiij.com^
 ||ijhweandthepe.info^
@@ -48913,6 +48908,7 @@
 ||kyaywy.xyz^
 ||kyccmn.com^
 ||kycxhgrp.xyz^
+||kydagoba.com^
 ||kydcwp.landwirt.com^
 ||kydzfldt.xyz^
 ||kyemwo.xyz^
@@ -59365,6 +59361,7 @@
 ||naufauzo.net^
 ||naufistuwha.com^
 ||naughtynotice.pro^
+||naukegainok.net^
 ||naulme.info^
 ||nauloapt.com^
 ||naupouch.xyz^
@@ -63486,6 +63483,7 @@
 ||packmenappui.top^
 ||pacoaniy.net^
 ||pacontainer.s3.amazonaws.com^
+||pacquetmuysca.com^
 ||pacquetpusher.com^
 ||pacstainless.actonservice.com^
 ||paddlediscovery.com^
@@ -64040,6 +64038,7 @@
 ||paunaupa.com^
 ||paupud.meillandrichardier.com^
 ||paushoow.net^
+||pausingroyale.com^
 ||paussidsipage.com^
 ||pausteegohoa.net^
 ||pavanesimmind.com^
@@ -66221,6 +66220,7 @@
 ||pr0gram.org^
 ||pr0xqyrgl.com^
 ||pra.praxis.nl^
+||prabblealltud.com^
 ||practicalbar.pro^
 ||practicalframingfiddle.com^
 ||practicallyfire.com^
@@ -66968,7 +66968,6 @@
 ||psaiceex.net^
 ||psaiglursurvey.space^
 ||psailsee.com^
-||psaimoodriy.com^
 ||psaimpagnuhu.net^
 ||psairees.net^
 ||psairtoo.com^
@@ -73372,6 +73371,7 @@
 ||secondquaver.com^
 ||secondunderminecalm.com^
 ||secprf.com^
+||secqueduomo.com^
 ||secretionforbearace.com^
 ||secretiongrin.com^
 ||secretivelimpfraudulent.com^
@@ -74772,7 +74772,6 @@
 ||shatterconceal.com^
 ||shaugacakro.net^
 ||shauhacm.net^
-||shauhaik.xyz^
 ||shauksug.com^
 ||shauladubhe.com^
 ||shauladubhe.top^
@@ -85381,7 +85380,6 @@
 ||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
 ||telemetry.urs.microsoft.com^
-||telemetry.voxeet.com^
 ||telemetry.vtex.com^
 ||telemetry.webasto.com^
 ||telemetryverification.net^
@@ -86853,7 +86851,6 @@
 ||topbiz.news^
 ||topblockchainsolutions.nl^
 ||topbucks.com^
-||topcamepan.live^
 ||topcreativeformat.com^
 ||topdealad.com^
 ||topdisplaycontent.com^
@@ -89902,7 +89899,6 @@
 ||treegreeny.org^
 ||treehouse.wwoz.org^
 ||treehusbanddistraction.com^
-||treemagrig.live^
 ||treenghsas.com^
 ||treeoflifecenterus.actonservice.com^
 ||treepullmerriment.com^
@@ -91796,6 +91792,7 @@
 ||unknowncheats.me/forum/images/ez^
 ||unknownhormonesafeguard.com^
 ||unknowntray.com^
+||unlargecamden.com^
 ||unlawedimaret.top^
 ||unleash.livepix.gg^
 ||unlesscooler.com^
@@ -91996,7 +91993,6 @@
 ||updservice.site^
 ||upeatunzone.com^
 ||upeayz.eksisozluk.com^
-||upfile16.mediaphim.com^
 ||upfmqr.carmensteffens.com.br^
 ||upgastlyr.com^
 ||upglideantijam.com^
@@ -92111,7 +92107,6 @@
 ||uqykeq.xyz^
 ||ur.b.inhaabit.com^
 ||urafur.clubeo.com^
-||uraimeandc.top^
 ||ural.aomg5bzv7.com^
 ||urambled.com^
 ||uranicargine.top^
@@ -92502,6 +92497,7 @@
 ||uwougheels.net^
 ||uwrzjgtnur.com^
 ||uwumr.cn^
+||uwursert.top^
 ||uwxdru.hellovillam.com^
 ||uwy4.aegon.es^
 ||uwzxukualwdkx.com^
@@ -92602,7 +92598,6 @@
 ||v16-ad.byteoversea.com^
 ||v16m-default.akamaized.net.iberostar.com^
 ||v16rs.cn^
-||v1aazb6y5t.xyz^
 ||v2-ad.video.yximgs.com^
 ||v2-api-channel-launcher.hismarttv.com^
 ||v2.gdt.qq.com^
@@ -93417,7 +93412,6 @@
 ||viisupport.com^
 ||viitgb.com^
 ||viitjcfx.com^
-||viitoz.com^
 ||viitqvjx.com^
 ||viitsical.com^
 ||viiturn.com^
