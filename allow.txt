@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-06 08:49:40（北京时间）
+! Version: 2024-10-06 20:15:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 14602
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -8844,7 +8844,7 @@
 @@||mp4upload.com/embed-*.html$popup
 @@||mp4upload.com^$domain=anyanime.com
 @@||mp4upload.com^$generichide
-@@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|bravotv.com|cnbc.com|gymshark.com|motortrendondemand.com
+@@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|bravotv.com|cnbc.com|gymshark.com|motortrendondemand.com|nbcsports.com
 @@||mparticle.com^*/login$domain=discoveryplus.*
 @@||mps.nbcuni.com/fetch/ext/load-nbcsports-web.js$domain=nbcsports.com
 @@||mps.nbcuni.com/images/MPS-ERROR-REPORTING.png$domain=nbcsports.com

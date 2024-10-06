@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-06 08:49:40（北京时间）
+! Version: 2024-10-06 20:15:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100365
+! Total count: 100367
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -52534,6 +52534,7 @@
 ||lwprdv.xyz^
 ||lwrnikzjpp.com^
 ||lwrohd.xyz^
+||lwurserl.top^
 ||lwusnt.yogibo.kr^
 ||lwvbhhvgrv.com^
 ||lwwdvshhbj.com^
@@ -65634,6 +65635,7 @@
 ||plenty.vidio.com^
 ||plex4rtb.com^
 ||plexop.net^
+||plfwxtgu.icu^
 ||plhhisqiem.com^
 ||plianteditdisembark.com^
 ||pliantleft.com^
