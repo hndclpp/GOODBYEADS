@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-09 08:44:18（北京时间）
+! Version: 2024-10-09 20:17:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100079
+! Total count: 100082
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -31933,6 +31933,7 @@
 ||efficiencybate.com^
 ||effixtile-inceive.com^
 ||effulgent-stroopwafel-efb9ce.netlify.app^
+||efg.zle.com^
 ||efgam.actonservice.com^
 ||efgh.5lu.com^
 ||efglbp.baur.de^
@@ -46614,6 +46615,7 @@
 ||jingbaiteether.top^
 ||jingenfirm.com^
 ||jingjia.qq.com^
+||jingjs.top^
 ||jinglehalfbakedparticle.com^
 ||jinguisiacal.top^
 ||jinhonghao.cn^
@@ -49300,6 +49302,7 @@
 ||leafminefield.com^
 ||leafy-feel.com^
 ||leaght341.th2mbxzqe.com^
+||leagsmk.icu^
 ||leaguedispleasedjut.com^
 ||leak.welnes.online^
 ||leakervassar.top^
@@ -52863,7 +52866,6 @@
 ||mango.aomg5bzv7.com^
 ||mangoa.xyz^
 ||mangzoi.xyz^
-||manhua.acimg.cn^
 ||maniasensiblecompound.com^
 ||maniatoile.com^
 ||maniconclavis.com^
@@ -96172,6 +96174,7 @@
 ||wuepo.cn^
 ||wuftoars.net^
 ||wuidtethhkcko.com^
+||wuiqiq.xyz^
 ||wuisaq.top^
 ||wujiupic.com^
 ||wujungexo.net^
