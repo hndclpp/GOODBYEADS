@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-12 20:15:30（北京时间）
+! Version: 2024-10-13 08:49:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 97670
+! Total count: 97677
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -76,7 +76,6 @@
 ||0157.l5eamr17d.com^
 ||0159.ogrt80r65.com^
 ||015fcec3c6.com^
-||016e6eadad.com^
 ||0172.5clo0xmbf.com^
 ||0176.cosmicnewspulse.com^
 ||0179.k3718qw08.com^
@@ -1387,7 +1386,6 @@
 ||39f204776a.com^
 ||39irqwnzlv.com^
 ||39jz.com^
-||3a08b8ccd7.com^
 ||3a12751332.cc72fceb4f.com^
 ||3a17d27bf9.com^
 ||3am.info^
@@ -1662,6 +1660,7 @@
 ||4pp13.com^
 ||4pussies.com^
 ||4puuqeh41.com^
+||4q87v.icu^
 ||4qdx69gg2d.com^
 ||4rabettraff.com^
 ||4sqt6jq.de^
@@ -1811,7 +1810,6 @@
 ||57236.79j68qav2.com^
 ||5726303d87522d05.com^
 ||573569djd.com^
-||573d28b35e.com^
 ||574ae48fe5.com^
 ||5753.5clo0xmbf.com^
 ||57573zubo36833.com^
@@ -7593,6 +7591,7 @@
 ||accessibletighterchorus.com^
 ||accessorygraph.com^
 ||accessorytonegender.com^
+||accessv.org^
 ||accidentalcrownincredible.com^
 ||accidentalinfringementfat.com^
 ||accidentallycopiespatted.com^
@@ -9901,6 +9900,7 @@
 ||adsrv.deviantart.com^
 ||adsrv.iol.co.za^
 ||adsrv.me^
+||adsrv.net^
 ||adsrv.wtf^
 ||adsrvr.org^
 ||adss.video.qq.com^
@@ -10786,6 +10786,7 @@
 ||agnes.waz.de^
 ||agngplsooascil.com^
 ||agnrcrpwyyn.com^
+||agonesdeleted.click^
 ||agooxouy.net^
 ||agoqaa.stockmann.com^
 ||agossuoeach.com^
@@ -16506,6 +16507,7 @@
 ||bankerpotatoesrustle.com^
 ||bankersend.com^
 ||bankervehemently.com^
+||bankingbloatedcaptive.com^
 ||bankingconcede.com^
 ||bankingkind.com^
 ||bankingpotent.com^
@@ -17018,7 +17020,6 @@
 ||be.slowmographer.co^
 ||be023693af.com^
 ||be2ecc872f.d483501b04.com^
-||be5985b426.com^
 ||bea-s.dinghuoche.com^
 ||bea988787c.com^
 ||beachanatomyheroin.com^
@@ -23027,7 +23028,6 @@
 ||commercial.equifax.com^
 ||commercial.inform.equifax.com^
 ||commercialvalue.org^
-||commindo-media-ressourcen.de^
 ||commiserateeffects.com^
 ||commiseratefiveinvitations.com^
 ||commission-junction.com^
@@ -24587,7 +24587,6 @@
 ||crxmaotidrf.xyz^
 ||crxxfgswiq.com^
 ||cryingforanythi.com^
-||cryingforthemoo.info^
 ||cryjun.com^
 ||cryo.socialblade.com^
 ||cryonickru.com^
@@ -24739,6 +24738,7 @@
 ||ctr-iwb.nmg.de^
 ||ctr-opc.nmg.de^
 ||ctr.po-kaki-to.com^
+||ctrdwm.com^
 ||ctrkd.ilsole24ore.com^
 ||ctrlaltdel99.com^
 ||ctrtraffic.com^
@@ -39220,6 +39220,7 @@
 ||gxleat.attenir.co.jp^
 ||gxmlkgraj.com^
 ||gxnfz.com^
+||gxoaku.xyz^
 ||gxordgtvjr.com^
 ||gxoymwfwex.com^
 ||gxpiypxnjwtclv.com^
@@ -41227,7 +41228,6 @@
 ||hwpyfcxahv.com^
 ||hwqybdkniptwm.com^
 ||hwrcxpfzmfxg.com^
-||hwucqkpdinfb.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hwurseru.top^
 ||hwvvvuwpvu.com^
@@ -45925,6 +45925,7 @@
 ||js.stroeermediabrands.de^
 ||js.syosetu.top^
 ||js.ubaike.cn^
+||js.users.51.la^
 ||js.winc-ad.com^
 ||js.wpshsdk.com^
 ||js.wpushsdk.com^
@@ -47588,6 +47589,7 @@
 ||labs.verticurl.com^
 ||labsappland.com^
 ||labsoacu.com^
+||labtfeavcan.com^
 ||laccaiccrusta.com^
 ||lacecoming.com^
 ||lacecompressarena.com^
@@ -47906,6 +47908,7 @@
 ||lbjxsort.xyz^
 ||lbn.ru^
 ||lbnrrh.autouncle.dk^
+||lbqdaua.icu^
 ||lbswotkkpry.com^
 ||lbv5.mperf.com^
 ||lbxcnbrczmmp.com^
@@ -51451,6 +51454,7 @@
 ||maltunfaithfulpredominant.com^
 ||mamamia.vintageporno.stream^
 ||mamblubamblua.com^
+||mamjkg.xyz^
 ||mamka.aviasales.ru^
 ||mamluksburion.com^
 ||mammaclassesofficer.com^
@@ -55706,7 +55710,6 @@
 ||middaysbedaff.com^
 ||middaysonnyguffaw.com^
 ||middleagedreminderoperational.com^
-||middycdn-a.akamaihd.net^
 ||midgerelativelyhoax.com^
 ||midgetdeliveringsmartly.com^
 ||midgetincidentally.com^
@@ -55820,6 +55823,7 @@
 ||mini-site.larksuite-marketing.com^
 ||mini.hao123.com^
 ||mini2015.qq.com^
+||miniature-injury.pro^
 ||miniaturecomfortable.com^
 ||miniatureoffer.pro^
 ||minigame5-normal-hl.zijieapi.com^
@@ -63808,7 +63812,6 @@
 ||pmzlnt.xyz^
 ||pn.wendatopen.com^
 ||pnaagn.haekplanter-heijnen.dk^
-||pncdn.cn^
 ||pncloudfl.com^
 ||pncvaoh.com^
 ||pnd.gs^
@@ -66070,7 +66073,6 @@
 ||qfwfbo.decofurnsa.co.za^
 ||qfwjgivatds.com^
 ||qfyavpwmraqibv.com^
-||qgafkisnspangl.com^
 ||qgbnjd.coches.net^
 ||qgcfcd.cairo.de^
 ||qgejxfoau.com^
@@ -70646,7 +70648,6 @@
 ||sats.mailbrew.com^
 ||sats.manager-magazin.de^
 ||sats.spiegel.de^
-||satsativa.com^
 ||saturatecats.com^
 ||saturatedrake.com^
 ||saturatemadman.com^
@@ -73533,7 +73534,6 @@
 ||smart2cnjuh34jb.com^
 ||smart4ads.com^
 ||smartad.10010.com^
-||smartadnetwork.net^
 ||smartads.statsperform.com^
 ||smartadserver.com^
 ||smartapplifly.com^
@@ -83417,6 +83417,7 @@
 ||thagrals.net^
 ||thagroum.net^
 ||thaickoo.net^
+||thaickoofu.net^
 ||thaiheq.com^
 ||thaimoul.net^
 ||thairoob.com^
@@ -86479,6 +86480,7 @@
 ||tracker.ulivetv.net^
 ||tracker.unbxdapi.com^
 ||tracker.uprinting.com^
+||tracker.vneconomy.vn^
 ||tracker.wigzopush.com^
 ||tracker.winload.de^
 ||tracker.wordstream.com^
@@ -88370,6 +88372,7 @@
 ||tundrapinjane.com^
 ||tune.sckmediatv.com^
 ||tunedecided.com^
+||tunefatigueclarify.com^
 ||tunein.adswizz.com^
 ||tuneshave.com^
 ||tunion-api.m.taobao.com^
@@ -88949,6 +88952,7 @@
 ||ufiledsit.com^
 ||ufiler-pro2.ru^
 ||ufinkln.com^
+||ufiuhnyydllpaed.com^
 ||ufjslit.top^
 ||uflfhl.mercci22.com^
 ||uflybplr.xyz^
@@ -89549,6 +89553,7 @@
 ||unwartortlean.com^
 ||unweezingr.com^
 ||unwelcomegardenerinterpretation.com^
+||unwilling-jury.pro^
 ||unwillingsnick.com^
 ||unwindflophousework.com^
 ||unwindirenebank.com^
@@ -89885,7 +89890,6 @@
 ||userexperience.thehut.net^
 ||userreporting.cloud.unity3d.com^
 ||userresewn.com^
-||users.51.la^
 ||users.rentbabe.com^
 ||usersegment.wpdigital.net^
 ||usersmorrow.com^
@@ -91508,6 +91512,7 @@
 ||vrtzads.com^
 ||vrvjwr.mobelaris.com^
 ||vrvthmwyvbedy.com^
+||vrvxovgj.xyz^
 ||vry9.destinia.com^
 ||vrzmfy.fool.com^
 ||vs-api.voodoo-tech.io^
@@ -91550,6 +91555,7 @@
 ||vtetishcijmi.com^
 ||vtffnz.blindsdirect.co.uk^
 ||vtftijvus.xyz^
+||vtjbnb.xyz^
 ||vtlyrj.xyz^
 ||vtneexam.quantresear.ch^
 ||vtnmxx.xyz^
@@ -91707,6 +91713,7 @@
 ||vzufzah.com^
 ||vzynem.lamporochljus.se^
 ||vzzramqlfb.com^
+||w-gbttkri.global^
 ||w-profiling.simplii.com^
 ||w.anmeihe.cn^
 ||w.cnews.qq.com^
@@ -94906,6 +94913,7 @@
 ||xafuzcxr.xyz^
 ||xageyai.com^
 ||xaguwy.thomas-muenz.ru^
+||xahbmyruars.com^
 ||xahttwmfmyji.com^
 ||xait.actonservice.com^
 ||xajibur.ru^
@@ -95096,7 +95104,6 @@
 ||xhfxtqt.xyz^
 ||xhgpuxim.xyz^
 ||xhhaakxn.xyz^
-||xhkvff.cn^
 ||xhlkvx.xyz^
 ||xhlphpvgytyq.com^
 ||xhmnbvn.com^
