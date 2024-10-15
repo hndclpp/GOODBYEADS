@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-15 08:45:20（北京时间）
+! Version: 2024-10-15 20:18:17（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 98273
+! Total count: 98286
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8522,6 +8522,7 @@
 ||adb.toggoeltern.de^
 ||adb7rtb.com^
 ||adballoon.afreecatv.com^
+||adballoon.sooplive.co.kr^
 ||adbard.net^
 ||adbd.liuxue86.com^
 ||adbedgeexp.aircanada.com^
@@ -15970,6 +15971,7 @@
 ||awhauchoa.net^
 ||awhausaifoog.com^
 ||awhiledad.com^
+||awhoupsou.com^
 ||awhsaso.cn^
 ||awistats.com^
 ||awkiktwfvhqiwb.com^
@@ -18885,6 +18887,7 @@
 ||boweddrawback.com^
 ||bowedrhymesnack.com^
 ||bowelslipperypraised.com^
+||bowermisrule.com^
 ||bowerywill.com^
 ||bowgevyingly.com^
 ||bowie-cdn.fathomdns.com^
@@ -27738,6 +27741,7 @@
 ||dealtbroodconstitutional.com^
 ||deanth.xyz^
 ||deapi.afreecatv.com^
+||deapi.sooplive.co.kr^
 ||deappzap.com^
 ||dearestimmortality.com^
 ||dearfiring.com^
@@ -31606,7 +31610,6 @@
 ||eightygermanywaterproof.com^
 ||eiimvmchepssb.xyz^
 ||eiistillstayh.com^
-||eijumomf.com^
 ||eikegolehem.com^
 ||eikwax.marmot.com^
 ||eimcqw.dickies.com^
@@ -32912,6 +32915,7 @@
 ||erosyndc.com^
 ||erovation.com^
 ||erp.qwic.nl^
+||erpabsjbxlb.com^
 ||err.ifengcloud.ifeng.com^
 ||errantstetrole.com^
 ||erratatoecap.top^
@@ -34500,6 +34504,7 @@
 ||februaryinjectionproudly.com^
 ||februarynip.com^
 ||febtzd.xyz^
+||fecguzhzeia.vip^
 ||fedapush.net^
 ||fedassuagecompare.com^
 ||federalcertainty.com^
@@ -36917,6 +36922,7 @@
 ||gdpgwtwby.com^
 ||gdphhl.elite-auto.fr^
 ||gdqlno.weisshaus.de^
+||gdrcaguddyj.space^
 ||gdsngr.chainreactioncycles.com^
 ||gdt.qq.com^
 ||gdwfhelbww.com^
@@ -39855,6 +39861,7 @@
 ||hardabbuy.live^
 ||hardaque.xyz^
 ||hardboileddearlyaccomplish.com^
+||harderjuniormisty.com^
 ||hardinet.actonservice.com^
 ||hardwaretakeoutintimidate.com^
 ||hardynarrow.com^
@@ -41489,6 +41496,7 @@
 ||huqbeiy.com^
 ||huqkbq.misterrunning.com^
 ||hurdlesmuchel.com^
+||huresdu.top^
 ||hurgusou.com^
 ||hurkarubypaths.com^
 ||hurlaxiscame.com^
@@ -47039,6 +47047,7 @@
 ||kgwlfrdtf.com^
 ||kgyhxdh.com^
 ||kgymoc.xyz^
+||kh-bkcvqxc.online^
 ||kh.hollekejokiest.com^
 ||kh.suno.vn^
 ||khangalenten.click^
@@ -48832,6 +48841,7 @@
 ||likescenesfocused.com^
 ||likevertising.com^
 ||liktufmruav.com^
+||likutaencoil.shop^
 ||lilacbeaten.com^
 ||lilacsloppy.com^
 ||lilcybu.com^
@@ -61679,6 +61689,7 @@
 ||outlookreservebennet.com^
 ||outlopunnytor.com^
 ||outmatchurgent.com^
+||outnidorinoom.com^
 ||outnumberconnatetomato.com^
 ||outnumberminded.com^
 ||outnumberpickyprofessor.com^
@@ -65896,7 +65907,6 @@
 ||puczuxqijadg.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
-||pudexsemxfwnn.com^
 ||pudrardu.net^
 ||puds.ucweb.com^
 ||puertojambs.com^
@@ -67268,7 +67278,6 @@
 ||r66net.com^
 ||r66net.net^
 ||r7m2yipxqfggiq1i.39v9o5gp7.com^
-||r8oyegintx.com^
 ||r932o.com^
 ||r9ffi.fun^
 ||r9ljguu1k4.ru^
@@ -68409,6 +68418,7 @@
 ||repulsefinish.com^
 ||repulsiveclearingtherefore.com^
 ||reqde.afreecatv.com^
+||reqde.sooplive.co.kr^
 ||reqdfit.com^
 ||reqssx.centerparcs.fr^
 ||request.idangels.org^
@@ -69454,6 +69464,7 @@
 ||rqz4.supdigital.fr^
 ||rr.groc.press^
 ||rrbaib.tsutsumishop.jp^
+||rrdhtqhgu.com^
 ||rreauksofthecom.xyz^
 ||rrgbjybt.com^
 ||rrgiuy.jackroad.co.jp^
@@ -80731,7 +80742,6 @@
 ||staumersleep.com^
 ||staunchgenetwitch.com^
 ||staureez.net^
-||staustee.net^
 ||stawhoph.com^
 ||stay.lottehotel.com^
 ||staydolly.com^
@@ -94046,6 +94056,7 @@
 ||wombalayah.com^
 ||wombat.buildrtech.com^
 ||wombierfloc.com^
+||wombjingle.com^
 ||womenvocationanxious.com^
 ||womerasecocide.com^
 ||wompanalytics.azurewebsites.net^
@@ -94450,6 +94461,7 @@
 ||wunishamjch.com^
 ||wuqconn.com^
 ||wurqaz.com^
+||wurunoax.com^
 ||wussucko.com^
 ||wutseelo.xyz^
 ||wutsldsk.xyz^
@@ -97570,6 +97582,7 @@
 ||zauthuvy.com^
 ||zautouchiste.com^
 ||zaventemdijleland.viessmann.be^
+||zavoxlquwb.com^
 ||zaxonoax.com^
 ||zayac2volk11.com^
 ||zazufi.com^
