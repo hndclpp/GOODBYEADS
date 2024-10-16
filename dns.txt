@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-16 08:45:06（北京时间）
+! Version: 2024-10-16 20:17:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 98292
+! Total count: 98300
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -19389,7 +19389,6 @@
 ||brookredheadpowerfully.com^
 ||brookssa.com^
 ||broomemulation.com^
-||broommeeting.com^
 ||bropu2.com^
 ||broredir1s.site^
 ||brostraffic.com^
@@ -28571,6 +28570,7 @@
 ||didmakingby.xyz^
 ||didna.io^
 ||didodadn.com^
+||didspack.com^
 ||didstfineer.com^
 ||didthere.com^
 ||didtheyreadit.com^
@@ -35345,6 +35345,7 @@
 ||fluidintolerablespectacular.com^
 ||fluingdulotic.com^
 ||flukepopped.com^
+||flungsnibble.com^
 ||fluqualificationlarge.com^
 ||flurrdid.top^
 ||flurry.cachefly.net^
@@ -39413,6 +39414,7 @@
 ||guardiancu.actonservice.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardsslate.com^
+||guareacelling.com^
 ||guchihyfa.pro^
 ||gudouzov.com^
 ||gueikw.xyz^
@@ -46491,6 +46493,7 @@
 ||juntfemoral.com^
 ||jupabwmocgqxeo.com^
 ||jupiterhealth-app.hotdoc.com.au^
+||juresda.top^
 ||jurgeeph.net^
 ||juricts.xyz^
 ||jurisdiction423.fun^
@@ -47189,6 +47192,7 @@
 ||kiwi.halostats.app^
 ||kiwi.mdldb.net^
 ||kiwi.railway.app^
+||kixestalsie.net^
 ||kiykfux.icu^
 ||kiynew.com^
 ||kiyyrilqb.com^
@@ -47983,6 +47987,7 @@
 ||labadena.com^
 ||labbyplop.com^
 ||labeldollars.com^
+||labelstrinkum.com^
 ||labourattention.com^
 ||labourcucumberarena.com^
 ||labourerlavender.com^
@@ -54433,7 +54438,6 @@
 ||metminekit.live^
 ||metoacrype.com^
 ||metogthr.com^
-||metok.sys.miui.com^
 ||metorealiukz.org^
 ||metosk.com^
 ||metredesculic.com^
@@ -56440,7 +56444,6 @@
 ||mkepacotck.com^
 ||mkg.colfondos.co^
 ||mkgiiijigxwwn.com^
-||mkgydsrqygntk.com^
 ||mkhoj.com^
 ||mkiterx.top^
 ||mkjsqrpmxqdf.com^
@@ -58911,6 +58914,7 @@
 ||nmkli.com^
 ||nmmemzi.icu^
 ||nmntgd.cn^
+||nmo-ep.nl^
 ||nmo1.orpi.com^
 ||nmqwdmtwjleb.com^
 ||nmrjnqiwocfyi.com^
@@ -58982,6 +58986,7 @@
 ||nofashot.com^
 ||nofidroa.xyz^
 ||noflake-aggregator-http.narvar.com^
+||nogaiboccaro.com^
 ||nognoongut.com^
 ||nogxjk.dackonline.se^
 ||nohaxn.damattween.com^
@@ -71742,7 +71747,6 @@
 ||search4sports.com^
 ||search5-search-hl.ixigua.com^
 ||search5-search.ixigua.com^
-||searchboll.com^
 ||searchcoveragepoliteness.com^
 ||searchdatestoday.com^
 ||searchgear.pro^
@@ -72361,6 +72365,7 @@
 ||seedlingneurotic.com^
 ||seedlingpenknifecambridge.com^
 ||seedoupo.com^
+||seedouptoanapsy.xyz^
 ||seedsmurids.shop^
 ||seegamezpicks.info^
 ||seegraufah.com^
@@ -83561,6 +83566,7 @@
 ||technoratimedia.com^
 ||technoshadows.com^
 ||technotology.com^
+||techourtoapingu.com^
 ||techprovider.intel.com^
 ||techpump.com^
 ||techreviewtech.com^
@@ -88616,6 +88622,7 @@
 ||trmobc.com^
 ||trmzum.com^
 ||trndabegvhndg.com^
+||trocarssubpool.shop^
 ||trodspivery.com^
 ||trojangfw.xyz^
 ||trokemar.com^
@@ -94418,6 +94425,7 @@
 ||wtm.interhyp.de^
 ||wtmhwnv.com^
 ||wtr-digital-analytics.ew.r.appspot.com^
+||wtroytj33.fun^
 ||wttbup.novasol.de^
 ||wttd.douglas.at^
 ||wttd.douglas.ch^
