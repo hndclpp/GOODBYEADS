@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-15 20:18:17（北京时间）
+! Version: 2024-10-16 08:45:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 98286
+! Total count: 98292
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -557,6 +557,7 @@
 ||15x.info^
 ||16-merchant-s.com^
 ||16134024.artcollection.io^
+||1614729201.rsc.cdn77.org^
 ||161779.publy.co^
 ||162.252.214.4^
 ||1631.cosmicnewspulse.com^
@@ -1231,6 +1232,7 @@
 ||2qj7mq3w4uxe.com^
 ||2qy9zm.cn^
 ||2rb5hh5t6.de^
+||2rbda.icu^
 ||2re6rpip2.de^
 ||2rich4bitches.com^
 ||2rid9fii9chx.www.atlaslane.com^
@@ -8521,7 +8523,6 @@
 ||adb.superrtl.de^
 ||adb.toggoeltern.de^
 ||adb7rtb.com^
-||adballoon.afreecatv.com^
 ||adballoon.sooplive.co.kr^
 ||adbard.net^
 ||adbd.liuxue86.com^
@@ -11073,7 +11074,6 @@
 ||ahuvjy.design-market.fr^
 ||ahwbedsd.xyz^
 ||ahwdhrehd.com^
-||ahxtckisuy.com^
 ||ahyghotmptj.com^
 ||ahyyqq.xyz^
 ||ahzqgr.au-sonpo.co.jp^
@@ -12086,12 +12086,12 @@
 ||analyse.hinemos.info^
 ||analyse.weather.com.cn^
 ||analysecrappy.com^
-||analysis.afreecatv.com^
 ||analysis.aws.locondo.jp^
 ||analysis.chinaiiss.com^
 ||analysis.fi^
 ||analysis.polarisoffice.com^
 ||analysis.prod.joyfru.jiji.com^
+||analysis.sooplive.co.kr^
 ||analysis.vesync.com^
 ||analysis.yozocloud.cn^
 ||analystrati.com^
@@ -17188,6 +17188,7 @@
 ||bdbovbmfu.xyz^
 ||bdc92feedb.ddb284b21b.com^
 ||bdcebeabc4.com^
+||bdckqpofmclr.com^
 ||bdcm.kandianla.com^
 ||bdcode.2345.com^
 ||bdcode.35d1.com^
@@ -18127,6 +18128,7 @@
 ||bit.beformance.com^
 ||bitads.net^
 ||bitbeat7.com^
+||bitcasino365.b-cdn.net^
 ||bitclub.network^
 ||bitclubnetwork.com^
 ||bitcoin-cashcard.com^
@@ -18658,7 +18660,6 @@
 ||bogus-disk.com^
 ||boharaf.com^
 ||bohkhufmvwim.online^
-||bohonef.com^
 ||bohowhepsked.com^
 ||bohpvdmwjl.com^
 ||boilabsent.com^
@@ -23196,7 +23197,7 @@
 ||collector.xhamster3.com^
 ||collector.xhofficial.com^
 ||collector.xhwide1.com^
-||collector1.afreecatv.com^
+||collector1.sooplive.co.kr^
 ||collector1.xhamster.com^
 ||collector2c.zhihuishu.com^
 ||collector5.zipy.ai^
@@ -24926,7 +24927,6 @@
 ||csk.ru^
 ||cskh.onlinecrm.vn^
 ||cskmfxhxhjrskl.com^
-||csm-e.cds1.yospace.com^
 ||csm.magnetintell.com^
 ||csmads.gameclick.vn^
 ||csmetrics.wilton.com^
@@ -27740,7 +27740,6 @@
 ||dealsfor.life^
 ||dealtbroodconstitutional.com^
 ||deanth.xyz^
-||deapi.afreecatv.com^
 ||deapi.sooplive.co.kr^
 ||deappzap.com^
 ||dearestimmortality.com^
@@ -28031,7 +28030,7 @@
 ||delmarviato.com^
 ||delmovip.com^
 ||delnapb.com^
-||delog.afreecatv.com^
+||delog.sooplive.co.kr^
 ||deloo.de^
 ||delookiinasfier.cc^
 ||deloplen.com^
@@ -29253,6 +29252,7 @@
 ||dkrxtdnlg.com^
 ||dkskbu.demae-can.com^
 ||dkstrtss.xyz^
+||dktad.com^
 ||dktr03lf4tq7h.cloudfront.net^
 ||dkuekrwiwr.com^
 ||dkupaw9ae63a8.cloudfront.net^
@@ -32916,6 +32916,7 @@
 ||erovation.com^
 ||erp.qwic.nl^
 ||erpabsjbxlb.com^
+||erqtga.xyz^
 ||err.ifengcloud.ifeng.com^
 ||errantstetrole.com^
 ||erratatoecap.top^
@@ -33327,8 +33328,8 @@
 ||event1.thermoscientific.com^
 ||event3.thermofisher.com^
 ||event3.thermoscientific.com^
-||eventapi.afreecatv.com^
 ||eventapi.libring.com^
+||eventapi.sooplive.co.kr^
 ||eventbarricadewife.com^
 ||eventbus.intuit.com^
 ||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^
@@ -35070,7 +35071,6 @@
 ||firumuti.xyz^
 ||firurx.invia.hu^
 ||fiscalscarfour.click^
-||fish.hyperfine.io^
 ||fish.muted.io^
 ||fish.trampoline.cx^
 ||fish.whitney.org^
@@ -37514,6 +37514,7 @@
 ||gibaivoa.com^
 ||gibbarwaiting.com^
 ||gibevay.ru^
+||gibizosutchoakr.net^
 ||giboxdwwevu.com^
 ||gibsuncap.shop^
 ||gichaisseexy.net^
@@ -45141,6 +45142,7 @@
 ||iuou.ysw365.com^
 ||iuqasw.xyz^
 ||iuqmon117bj1f4.shop^
+||iuresdo.top^
 ||iuryhk.soccer.com^
 ||iusxjykqehwdx.com^
 ||iutur-ixp.com^
@@ -51289,6 +51291,7 @@
 ||lxoemc.paginebianche.it^
 ||lxoemc.siviaggia.it^
 ||lxoemc.tuttocitta.it^
+||lxpbdp.xyz^
 ||lxpcyvnejhrp.com^
 ||lxqcgj.com^
 ||lxryhx.xyz^
@@ -61132,6 +61135,7 @@
 ||opim.pixmania.com^
 ||opkfijuifbuyynyny.com^
 ||opkinglerr.com^
+||opkmio.xyz^
 ||opleshouldthink.com^
 ||oplo.org^
 ||oplpectation.xyz^
@@ -66183,6 +66187,7 @@
 ||pvdrtiy.com^
 ||pvfbav.sportler.com^
 ||pvhjkzo.xyz^
+||pviasld.icu^
 ||pvjiqmryv.com^
 ||pvlcbsynxsabti.com^
 ||pvlnjwr.xyz^
@@ -66895,6 +66900,7 @@
 ||qtoidch.icu^
 ||qtoxhaamntfi.com^
 ||qtq632.com^
+||qtroytj33.fun^
 ||qttfwb.shaneco.com^
 ||qtuopsqmunzo.com^
 ||qtuxulczymu.com^
@@ -68417,7 +68423,6 @@
 ||republika.onet.pl^
 ||repulsefinish.com^
 ||repulsiveclearingtherefore.com^
-||reqde.afreecatv.com^
 ||reqde.sooplive.co.kr^
 ||reqdfit.com^
 ||reqssx.centerparcs.fr^
@@ -69238,6 +69243,7 @@
 ||roguehideevening.com^
 ||rogueschedule.com^
 ||rohvyftxssn.com^
+||roi.ediscom.it^
 ||roi.soulapp.cn^
 ||roia.biz^
 ||roiapp.net^
@@ -85239,7 +85245,6 @@
 ||towersalighthybrids.com^
 ||towerslady.com^
 ||towersresent.com^
-||townhousefilms.com^
 ||townhouses.woodlea.com.au^
 ||townrusisedprivat.info^
 ||townsquareinteractive.actonservice.com^
@@ -93887,6 +93892,7 @@
 ||wjxtbwffpykdmo.com^
 ||wjzyrk.magiclife.com^
 ||wka4jursurf6.com^
+||wkabios.icu^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
 ||wkitere.top^
