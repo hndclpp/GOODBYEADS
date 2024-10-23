@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-23 08:44:40（北京时间）
+! Version: 2024-10-23 20:17:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94875
+! Total count: 94873
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1602,7 +1602,6 @@
 ||423.ru^
 ||4230.5clo0xmbf.com^
 ||42337624e3.36c33c925f.com^
-||423991b7ca.com^
 ||4251.tech^
 ||426b5ba3f1.c5cdfd1601.com^
 ||4287.ogrt80r65.com^
@@ -11327,7 +11326,6 @@
 ||alchimybegins.com^
 ||alcidkits.com^
 ||alclick.com^
-||alcnpuezdiov.com^
 ||alcroconawa.com^
 ||ald.aldautomotive.be^
 ||aldik.com^
@@ -15820,7 +15818,6 @@
 ||axentis.arclogics.com^
 ||axepallorstraits.com^
 ||axersbarling.com^
-||axersmatte.top^
 ||axfevh.bandab.com.br^
 ||axhfeum.xyz^
 ||axhkoqqefsolu.com^
@@ -17703,7 +17700,6 @@
 ||bilahh.feuvert.fr^
 ||bilateralgodmother.com^
 ||bilayershaughs.com^
-||bilboacestrum.click^
 ||bilder11.markt.de^
 ||bilec.xyz^
 ||bilibilitool.site^
@@ -21005,6 +21001,7 @@
 ||cewrutf.top^
 ||cexlaifqgw.com^
 ||cexlwqgvstesfs.com^
+||cexofira.com^
 ||cexucetum.com^
 ||ceznscormatio.com^
 ||cezoachu.net^
@@ -24704,6 +24701,7 @@
 ||cvk.supklik.com^
 ||cvlb.dev^
 ||cvlkvdcwspu.com^
+||cvmuia.xyz^
 ||cvnxetmq.xyz^
 ||cvoyrn.astotel.com^
 ||cvpthv.vipoutlet.com^
@@ -38691,7 +38689,6 @@
 ||handtub.com^
 ||handwritingdigestion.com^
 ||handy-tab.com^
-||handymag.net^
 ||handymanlipsballast.com^
 ||handymanprivately.com^
 ||handymansurrender.com^
@@ -43436,6 +43433,7 @@
 ||iot-logser.realme.com^
 ||iot.informaengage.com^
 ||iotgateway.aomg5bzv7.com^
+||iouvxlio.top^
 ||iovia-pmj.com^
 ||iowanseck.com^
 ||ioxffew.com^
@@ -60950,6 +60948,7 @@
 ||pftk.temu.com^
 ||pfuyhr.schutz.com.br^
 ||pg-ad-b1.nosdn.127.net^
+||pg2bk.icu^
 ||pgaictlq.xyz^
 ||pgapi.ksmobile.com^
 ||pgazaz.icu^
@@ -63677,7 +63676,6 @@
 ||pusheify.com^
 ||pushell.info^
 ||pushelp.pro^
-||pusher1.com^
 ||pusherism.com^
 ||pushflow.net^
 ||pushflow.org^
@@ -65082,6 +65080,7 @@
 ||rccdmvlyhsuc.com^
 ||rccnyh.airportrentalcars.com^
 ||rcdjkdesdn.com^
+||rcdwhp.xyz^
 ||rce.iperceptions.com^
 ||rcerrohatfad.com^
 ||rcevcm.lyst.co.uk^
@@ -74632,6 +74631,7 @@
 ||sntjim.com^
 ||snuaphwdaij.com^
 ||snubjav12.fun^
+||snueirk.icu^
 ||snuffdemisedilemma.com^
 ||snugglethesheep.com^
 ||snugwednesday.com^
@@ -80539,7 +80539,6 @@
 ||tazichoothis.com^
 ||tazkiaonu.click^
 ||taznfx.renters.pl^
-||tb.mybb.ru^
 ||tb.turbocap.net^
 ||tba.smrtp.link^
 ||tbao684tryo.com^
@@ -85987,7 +85986,6 @@
 ||tubepure.com^
 ||tuberate.com^
 ||tuberay.com^
-||tuberic.com^
 ||tuberis.com^
 ||tubestrap.com^
 ||tubetitties.com^
