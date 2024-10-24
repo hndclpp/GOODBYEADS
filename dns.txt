@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/hndclpp/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-24 08:44:44（北京时间）
+! Version: 2024-10-24 20:17:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94898
+! Total count: 94903
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -144,7 +144,6 @@
 ||0444.4puuqeh41.com^
 ||0445.833enmhob.com^
 ||0452.5clo0xmbf.com^
-||045fef1509.com^
 ||0474.5clo0xmbf.com^
 ||0477.5clo0xmbf.com^
 ||0494.k3718qw08.com^
@@ -1150,7 +1149,6 @@
 ||2b1e8020e4.9efc2a7246.com^
 ||2b2359b518.com^
 ||2b2a5aa2e8.580a3132d3.com^
-||2b60794b99.com^
 ||2b6b88fc7b.a1bbcd100e.com^
 ||2b9957041a.com^
 ||2bc767f6cc.ca3b526022.com^
@@ -1312,7 +1310,6 @@
 ||30c692a17b.e218cdc27d.com^
 ||30d0b97ffa.com^
 ||30d5shnjq.de^
-||30hardcore.galleryprogram.com^
 ||30hccor10.de^
 ||30koqnlks.de^
 ||30m4hpei1.de^
@@ -9766,7 +9763,6 @@
 ||ads.xemphimso.com^
 ||ads.xemtivisohd.net^
 ||ads.xhamster.com^
-||ads.xlxtra.com^
 ||ads.xtra.ca^
 ||ads.xtra.co.nz^
 ||ads.yahoo.com^
@@ -12706,6 +12702,7 @@
 ||analytics.vnncdn.net^
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
+||analytics.vortexscans.com^
 ||analytics.vpplayer.tech^
 ||analytics.waifu2x.org^
 ||analytics.warnertv.fr^
@@ -14845,6 +14842,7 @@
 ||ascentcrm.actonservice.com^
 ||ascentflabbysketch.com^
 ||ascentloinconvenience.com^
+||ascentsboni.com^
 ||ascertainedthetongs.com^
 ||ascertainintend.com^
 ||ascmart.abphotos.link^
@@ -15454,7 +15452,6 @@
 ||augustahealth.hrm.healthgrades.com^
 ||augustjadespun.com^
 ||auhdzd.paprika-shopping.de^
-||auhjyihlbhvvkv.com^
 ||auhungou.com^
 ||auisaoa.top^
 ||auislq.top^
@@ -15815,7 +15812,6 @@
 ||axa123.com^
 ||axalgyof.xyz^
 ||axbofpnri.com^
-||axchggobulz.com^
 ||axductile.com^
 ||axeldivision.com^
 ||axentis.arclogics.com^
@@ -21521,7 +21517,6 @@
 ||ciajnlhte.xyz^
 ||cialisforsalecialiscostcye.com^
 ||cialismed.com^
-||cialiswithoutadoctor.net^
 ||cibersexo.eu^
 ||cicada.escapethecorporatecult.com^
 ||cicada.wordvested.org^
@@ -21924,7 +21919,6 @@
 ||click1.email.audacy.com^
 ||click2.email.ticketmaster.com^
 ||click2freemoney.com^
-||click2paid.com^
 ||click360.io^
 ||click360v2-ingest.azurewebsites.net^
 ||click4free.info^
@@ -27153,7 +27147,6 @@
 ||debonairtree.com^
 ||debrisstern.com^
 ||debsoaftist.com^
-||debtbusterloans.com^
 ||debtsbosom.com^
 ||debtsevolve.com^
 ||debug-inform.liilix.com^
@@ -35069,6 +35062,7 @@
 ||freelancerarity.com^
 ||freelogs.com^
 ||freepay.com^
+||freepopnews.skin^
 ||freesoftwarelive.com^
 ||freestar.io^
 ||freestat.hu^
@@ -36601,6 +36595,7 @@
 ||gjljde.kathmandu.co.nz^
 ||gjmedashb0.fun^
 ||gjmovc.epapoutsia.gr^
+||gjnbf.com^
 ||gjndsa.amaro.com^
 ||gjnzqdpzda.com^
 ||gjonfartyb.com^
@@ -39499,6 +39494,7 @@
 ||hits.dealer.com^
 ||hits.europuls.eu^
 ||hits.getelevar.com^
+||hits.gokwik.co^
 ||hits.guardian.co.uk^
 ||hits.informer.com^
 ||hits.letras.mus.br^
@@ -39899,7 +39895,6 @@
 ||horsebackcastle.com^
 ||hortestoz.com^
 ||hortitedigress.com^
-||hoseegnut.net^
 ||hoseitfromtheot.com^
 ||hosenmesitae.com^
 ||hosierygossans.com^
@@ -40275,6 +40270,7 @@
 ||huntmad.com^
 ||hunyakupgive.com^
 ||huohuo.huamuwo.com^
+||huoxun.wang^
 ||hupiru.uno^
 ||huppontic.com^
 ||huqbeiy.com^
@@ -40995,6 +40991,7 @@
 ||ijukwkxpek.xyz^
 ||ijulpfhnufwpci.com^
 ||ijvla.cn^
+||ijwkdmzru.com^
 ||ijynarif.xyz^
 ||ik.nuraghireels.com^
 ||ik8uf01fm7neloo9.edge41.testandtarget.omniture.com^
@@ -43937,6 +43934,7 @@
 ||izlok.xyz^
 ||izlutev.com^
 ||izmiua.xyz^
+||izoaghiwoft.net^
 ||izqeyo.xyz^
 ||izqogb.cn^
 ||izremx.dentalplans.com^
@@ -47125,6 +47123,7 @@
 ||lgepbups.xyz^
 ||lgezbhylndpnuf.com^
 ||lgidskil.top^
+||lgkocdi.icu^
 ||lgm.averydennison.com^
 ||lgpjw.cn^
 ||lgqffscxfqv.com^
@@ -54662,6 +54661,7 @@
 ||miui-fxcse.avlyun.com^
 ||miuo.cloud^
 ||miveci.uno^
+||mivibsegnuhaub.xyz^
 ||miwfkm.xyz^
 ||miwllmo.com^
 ||miwpkk.xyz^
@@ -58224,6 +58224,7 @@
 ||ohjrxj.personalizationmall.com^
 ||ohkahfwumd.com^
 ||ohkdsplu.com^
+||ohkfmi.xyz^
 ||ohkvifgino.com^
 ||ohlattice.com^
 ||ohldsplu.com^
@@ -63556,6 +63557,7 @@
 ||pulsar.ebay.com^
 ||pulse.delta.com^
 ||pulse.munsonhealthcare.org^
+||pulse.shopflo.com^
 ||pulseadnetwork.com^
 ||pulsemgr.com^
 ||pulseonclick.com^
@@ -64061,6 +64063,7 @@
 ||qdicel.marymaxim.com^
 ||qdickey.top^
 ||qdipsumy.top^
+||qdjsiyt.icu^
 ||qdkaky.rikilovesriki.com^
 ||qdlyqbpzfkl.com^
 ||qdmil.com^
@@ -69786,6 +69789,7 @@
 ||sejdfu.coeur.de^
 ||sekaopi.nocre.jp^
 ||sekindo.com^
+||sekqeraneosbm.com^
 ||sel-sel-fie.com^
 ||seldomsevereforgetful.com^
 ||selectdisgraceful.com^
@@ -75750,6 +75754,7 @@
 ||sragegedand.org^
 ||sravga.xyz^
 ||srbtztegq.today^
+||src.freshmarketer.in^
 ||srcip.com^
 ||srcips.com^
 ||srcsmrtgs.com^
@@ -81484,6 +81489,7 @@
 ||thrustlumpypulse.com^
 ||thruudrad.com^
 ||thrzbf.xyz^
+||thsantmirza.shop^
 ||thsnvv.hollywoodschaukel-paradies.de^
 ||thterras.com^
 ||thtk.temu.com^
@@ -82127,6 +82133,7 @@
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
+||toffiesoxgall.com^
 ||toftheca.buzz^
 ||togenron.com^
 ||togetherballroom.com^
@@ -86035,7 +86042,6 @@
 ||tukeelsy.com^
 ||tuky889900.com^
 ||tulipmagazinesempire.com^
-||tullesbullbat.com^
 ||tumbaklack.com^
 ||tumblebit.com^
 ||tumblebit.org^
@@ -91237,7 +91243,6 @@
 ||wthbjrj.com^
 ||wthroughhi.xyz^
 ||wtjsnlwmx.com^
-||wtlive.com^
 ||wtm.interhyp.de^
 ||wtmhwnv.com^
 ||wtr-digital-analytics.ew.r.appspot.com^
